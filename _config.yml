@@ -109,7 +109,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash  # Ensure this matches your home page layout
+      layout: single  # Ensure this matches your home page layout
       author_profile: false
 
 category_archive:
