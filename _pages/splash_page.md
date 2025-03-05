@@ -1,9 +1,8 @@
 ---
 title: "Splash Page"
-layout: splash
 permalink: /splash-page/
-author_profile: true
 date: 2025-03-04
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
