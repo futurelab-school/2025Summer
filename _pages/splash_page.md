@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Home"
 permalink: /splash-page/
 date: 2025-03-04
 layout: splash
