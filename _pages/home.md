@@ -4,7 +4,8 @@ title: "2025 Summer School"
 permalink: /home/
 # hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#000" #"#5e616c"
+  overlay_filter: "0.5"
   overlay_image: assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
   actions:
     - label: "Register"
