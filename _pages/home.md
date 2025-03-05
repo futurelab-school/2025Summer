@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "2025 Summer School"
 permalink: /splash-page/
 date: 2025-03-04
 layout: splash
@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Register"
+      url: "https://www.uwsunlab.com/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
