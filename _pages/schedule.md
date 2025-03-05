@@ -3,6 +3,8 @@ permalink: /schedule/
 title: "Schedule"
 layout: single
 ---
+<div style="margin-left: auto;
+            margin-right: auto;
 
 ## Monday, March 5, 2025
 
@@ -35,6 +37,8 @@ layout: single
 | 09:00 PM  | Review Notes     | Home            |
 
 ---
+
+</div>
 
 ### Notes:
 - [ ] Prepare slides for Thursday’s presentation  
