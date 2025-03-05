@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 permalink: /
 title: "2025 Summer School"
 hidden: true
