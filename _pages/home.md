@@ -1,8 +1,8 @@
 ---
 title: "2025 Summer School"
-permalink: /home/
-date: 2025-03-04
 layout: splash
+permalink: /
+hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
