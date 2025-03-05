@@ -33,10 +33,10 @@ paginate: #5 # amount of posts to show
 paginate_path: #/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Site settings
 breadcrumbs: true  # disabled by default
-breadcrumb_home_label : "Home"
+breadcrumb_home_label : "home"
 breadcrumb_separator  : "/"
-
 
 
 include:
