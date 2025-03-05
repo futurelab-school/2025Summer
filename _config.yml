@@ -34,10 +34,15 @@ permalink:  /:categories/:title/
 # paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Site settings
-# breadcrumbs: true  # disabled by default
-# breadcrumb_home_label : ""
-# breadcrumb_separator  : "/"
+# Site Settings
+locale                   : "en-US"
+title                    : "2025 ML Summer School"
+title_separator          : "-"
+subtitle                 : "website"
+url                      : https://uwsunlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/2025-MLSummerSchool" # the subpath of your site, e.g. "/blog"
+repository               : "2025-MLSummerSchool" # GitHub repository to help with editing content
+logo                     : "/assets/images/uwsunlab_logo.png"
 
 
 include:
