@@ -2,11 +2,11 @@
 title: "Splash Page"
 layout: splash
 permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+date: 2025-03-04
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
