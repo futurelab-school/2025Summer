@@ -1,6 +1,6 @@
 ---
 title: "2025 Summer School"
-permalink: /home/
+permalink: /
 date: 2025-03-04
 layout: splash
 header:
