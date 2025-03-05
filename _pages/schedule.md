@@ -22,6 +22,8 @@ layout: single
 ---
 
 
+
+
 ## Tuesday, March 6, 2025  
 
 | Time      | Event              | Location         |
@@ -37,6 +39,8 @@ layout: single
 | 09:00 PM  | Review Notes     | Home            |
 
 ---
+
+{: .text-center}
 
 
 ### Notes:
