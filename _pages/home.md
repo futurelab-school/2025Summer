@@ -2,7 +2,6 @@
 layout: splash
 title: "2025 Summer School"
 permalink: /home/
-# hidden: true
 header:
   overlay_color: "#000" #"#5e616c"
   overlay_filter: "0.5"

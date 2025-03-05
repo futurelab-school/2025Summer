@@ -3,8 +3,7 @@ permalink: /schedule/
 title: "Schedule"
 layout: single
 ---
-<div style="margin-left: auto;
-            margin-right: auto;
+<div style="margin-left: auto; margin-right: auto;">
 
 ## Monday, March 5, 2025
 
