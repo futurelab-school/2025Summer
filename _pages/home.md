@@ -2,7 +2,7 @@
 layout: splash
 title: "2025 Summer School"
 permalink: /home/
-hidden: true
+# hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
