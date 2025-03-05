@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /
 title: "2025 Summer School"
+permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
