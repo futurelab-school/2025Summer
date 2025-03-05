@@ -1,12 +1,16 @@
 main:
   - title: "Home"
     url: /home/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "About" # Location
+    url: /about/
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "About"
-    url: /about/
+
+  
 
