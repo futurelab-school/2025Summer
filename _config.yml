@@ -39,7 +39,7 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink:  /:categories/:title/
 # paginate: 10  #  amount of posts to show
-paginate_path: /-pages/page:num
+paginate_path: /_pages/page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -114,6 +114,12 @@ defaults:
     values:
       layout: single  # Ensure this matches your home page layout
       author_profile: false
+  - scope:
+      path: "_pages/home.md"
+      type: pages
+    values:
+      permalink: "/"
+      layout: splash  # Or any layout you prefer
 
 category_archive:
   type: liquid
