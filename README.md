@@ -2,6 +2,7 @@
 
 # Test Schedule
 
+<div align="center">
 ## Monday, March 5, 2025
 
 | Time      | Event              | Location         |
@@ -17,4 +18,5 @@
 | 09:00 PM  | Review Notes     | Home            |
 
 ---
+</div>
 
