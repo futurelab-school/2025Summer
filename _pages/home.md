@@ -14,11 +14,11 @@ excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 intro: 
   - excerpt: 'Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science'
 feature_row:
-  - image_path: /assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
+  - image_path: /assets/images/growtika-nGoCBxiaRO0-unsplash.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/growtika-nGoCBxiaRO0-unsplash.jpg
+  - image_path: /assets/images/louis-reed-JeInkKlI2Po-unsplash.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
