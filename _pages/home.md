@@ -1,5 +1,5 @@
 ---
-# title: "2025 Summer School"
+title: "2025 Summer School"
 layout: splash
 permalink: /
 hidden: true
