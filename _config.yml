@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 2025 ML Summer School
+title: "2025 ML Summer School"
+subtitle: "website"
 email: uwsunlab@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -23,6 +24,13 @@ twitter_username: uwsunlab
 github_username: uwsunlab
 minimal_mistakes_skin: default
 search: true
+locale                   : "en-US"
+title_separator          : "-"
+url                      : https://uwsunlab.github.io 
+baseurl                  : "/2025-MLSummerSchool" # the subpath of your site, e.g. "/blog"
+repository               : "2025-MLSummerSchool" # GitHub repository to help with editing content
+logo                     : "/assets/images/uwsunlab_logo.png"
+
 
 # Build settings
 markdown: kramdown
@@ -31,18 +39,8 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink:  /:categories/:title/
 # paginate: 10  #  amount of posts to show
-# paginate_path: /page:num/
+paginate_path: /-pages/page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-# Site Settings
-locale                   : "en-US"
-title                    : "2025 ML Summer School"
-title_separator          : "-"
-subtitle                 : "website"
-url                      : https://uwsunlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/2025-MLSummerSchool" # the subpath of your site, e.g. "/blog"
-repository               : "2025-MLSummerSchool" # GitHub repository to help with editing content
-logo                     : "/assets/images/uwsunlab_logo.png"
 
 
 include:
@@ -130,3 +128,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
