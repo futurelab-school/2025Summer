@@ -1,8 +1,5 @@
 # Website for ML summer school
 
-
-<div style="margin-left: auto; margin-right: auto;width: 30%">
-
 # Test Schedule
 ## **Monday, March 5, 2025**  
 | Time  | Event | Location |
@@ -18,4 +15,3 @@
 
 ---
 
-</div>
