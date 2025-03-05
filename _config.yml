@@ -109,11 +109,12 @@ defaults:
       type: pages
     values:
       layout: splash 
+defaults:
   - scope:
       path: ""
       type: pages
     values:
-      layout: single  # Default for other pages
+      layout: splash  # Ensure this matches your home page layout
       author_profile: false
 
 category_archive:
