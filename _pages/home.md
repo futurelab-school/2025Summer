@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "2025 Summer School"
+title: "2025 Future Labs Summer School"
 permalink: /home/
 header:
   overlay_color: "#000" #"#5e616c"
@@ -10,9 +10,9 @@ header:
     - label: "Register"
       url: "https://www.uwsunlab.com/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science"
+excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science'
 feature_row:
   - image_path: /assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
     alt: "placeholder image 1"
