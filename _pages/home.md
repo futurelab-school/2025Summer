@@ -18,7 +18,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/louis-reed-JeInkKlI2Po-unsplash.jpg.jpg
+  - image_path: /assets/images/louis-reed-JeInkKlI2Po-unsplash.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
