@@ -3,9 +3,9 @@ permalink: /schedule/
 title: "Schedule"
 ---
 
-# Schedule
-
 ## Date: YYYY-MM-DD
+
+<div align="center">
 
 | Time  | Event                         | Location  | Notes  |
 |-------|-------------------------------|-----------|--------|
@@ -16,6 +16,8 @@ title: "Schedule"
 | 16:00 | Writing Session               | Office    | Work on manuscript |
 | 18:00 | Gym                           | Gym       |        |
 | 19:30 | Dinner                        | Home      |        |
+
+</div>
 
 ## Notes
 - Adjust schedule based on priorities.
