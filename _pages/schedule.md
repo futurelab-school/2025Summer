@@ -60,4 +60,5 @@ layout: single
 | 2:30  | Break |
 | 3:00  | Contributed: Ansuman - AutoBot |
 | 3:15  | Contributed: Sasha - ALD Bot |
-| 3:
+| 3:30  | Academic Speaker; invited |
+| 4:00  | End of the Workshop |
