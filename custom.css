@@ -1,0 +1,7 @@
+.feature__item img {
+    height: 250px; /* or any desired height */
+    object-fit: cover;
+    width: 100%;
+  }
+
+  
