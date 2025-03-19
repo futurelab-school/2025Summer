@@ -17,6 +17,7 @@ intro:
 
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     title: "Safety Prep"
     excerpt: "Read through the safety training!"
     url: "https://drive.google.com/drive/"
@@ -30,6 +31,7 @@ feature_row:
     btn_label: "Data"
     btn_class: "btn--primary"
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     title: "Shared Code"
     excerpt: "Find the shared code for the course!"
     url: "https://colab.research.google.com/"
