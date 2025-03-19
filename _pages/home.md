@@ -14,20 +14,20 @@ excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 intro: 
   - excerpt: 'Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science'
 feature_row:
-  - image_path: /assets/images/growtika-nGoCBxiaRO0-unsplash.jpg
+  - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
     title: "Safety Prep"
     excerpt: "Read through the safety training!"
     url: "https://drive.google.com/drive/"
     btn_label: "Saftey"
     btn_class: "btn--primary"
-  - image_path: /assets/images/louis-reed-JeInkKlI2Po-unsplash.jpg
+  - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     title: "Shared Data"
     excerpt: "Find the shared data for the course!"
     url: "https://drive.google.com/drive/"
     btn_label: "Data"
     btn_class: "btn--primary"
-  - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
+  - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Shared Code"
     excerpt: "Find the shared code for the course!"
     url: "https://colab.research.google.com/"
@@ -53,7 +53,7 @@ feature_row3:
 
 
 feature_row4:
-  - image_path: /assets/images/testalize-me-igSTmAWAW3s-unsplash.jpg
+  - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
