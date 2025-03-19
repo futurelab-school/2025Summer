@@ -13,6 +13,8 @@ header:
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 intro: 
   - excerpt: 'Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science'
+
+
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
     title: "Safety Prep"
@@ -34,6 +36,7 @@ feature_row:
     btn_label: "Code"
     btn_class: "btn--primary"
 
+
 feature_row2:
   - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
     alt: "placeholder image 2"
@@ -42,6 +45,8 @@ feature_row2:
     url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
+
+  
 feature_row3:
   - image_path: /assets/images/testalize-me-igSTmAWAW3s-unsplash.jpg
     alt: "placeholder image 2"
@@ -54,19 +59,19 @@ feature_row3:
 
 feature_row4:
   - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    alt: "Readings"
+    title: "Readings"
+    excerpt: 'Learn more thourgh some of the publications from our host!'
     url: "https://www.uwsunlab.com/papers"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
-
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row id="feature_row4" type="center" %}
-<!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
+
+
+{% include feature_row id="intro" type="center" %} <!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
+
 
 
 {% include feature_row %}
