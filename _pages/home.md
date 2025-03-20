@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
   actions:
     - label: "Register"
-      url: "https://www.uwsunlab.com/"
+      url: /404.html
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 intro: 
