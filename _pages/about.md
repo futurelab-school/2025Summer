@@ -17,6 +17,6 @@ The summer school is open to students with interdisciplinary backgrounds in mate
 The deadline to register is Monday, June 23, 2025. Please complete the registration form below to register for the upcoming Future Labs Summer School on Robotic Synthesis Coupled with Machine Learning for Energy Materials.
 
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row" type="center" %}
 <!-- ![image-center](/assets/images/bio-photo.jpg){: .align-center} -->
 
