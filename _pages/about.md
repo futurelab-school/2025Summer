@@ -3,11 +3,12 @@ permalink: /about/
 title: "About"
 
 feature_row:
-  - image_path: /assets/images/map_location.png
-    alt: "Map"
+  - image_path: /assets/images/lawrence.png
 
-    # btn_label: "Read More"
-    # btn_class: "btn--primary"
+  - image_path: /assets/images/foundary.png
+
+  - image_path: /assets/images/uwlogo.png
+
 ---
 
 Robotics and AI are regarded as transformative tools for scientific discovery. The primary goal of the summer school is to engage students in and learn about laboratory automation for the discovery of energy materials. Through lectures, coding tutorials, robotic synthesis experiments, and a team competition, participants will be involved in close loop experiment design, machine learning, data handling and visualization, as well as work in the lab to make thin film semiconductors by using a robotic platform. We aim to foster the development of our future workforce in these fields, in anticipation of science and research integrating more and more artificial intelligence/machine learning (AI/ML).  
