@@ -73,10 +73,11 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %} 
 
+{% include feature_row %}
+
 {% include feature_row id="feature_row4" type="center" %}<!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
 
-{% include feature_row %}
 <!-- 
 another placeholder can be info about preparing for the summer school/ good to know. here we will add safety information, min. PPE
 another placeholder can be data that we generate during the summer school and openly share through the website
