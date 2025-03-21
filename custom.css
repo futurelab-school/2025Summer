@@ -1,30 +1,32 @@
-.feature__item img {
-    height: 250px; /* or any desired height */
-    object-fit: cover;
-    width: 100%;
-  }
-
-/* Add to your main CSS file (typically located in assets/css/ or css/ directory) */
-
-/* Define different background colors for sections */
-#intro {
-  background-color: #f7f7f7; /* Light grey background */
-  padding: 50px 0;
+/* Style the feature rows */
+.feature-row {
+  margin: 50px 0;
+  padding: 20px;
 }
 
-#feature_row2 {
-  background-color: #e6f7ff; /* Light blue background */
-  padding: 50px 0;
+.feature-row img {
+  max-width: 100%;
+  height: auto;
 }
 
-#feature_row3 {
-  background-color: #fff0f5; /* Light pink background */
-  padding: 50px 0;
+.feature-row .feature-content {
+  text-align: center;
 }
 
-#feature_row4 {
-  background-color: #e2f9e1; /* Light green background */
-  padding: 50px 0;
+.feature-row h2 {
+  font-size: 1.8rem;
+  color: #333;
 }
 
-  
+.feature-row p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.feature-row .btn--primary {
+  background-color: #007acc;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
