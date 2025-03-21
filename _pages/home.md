@@ -45,10 +45,12 @@ feature_row4:
 ---
 
 
-
+# Join us
 {% include feature_row id="intro" type="center" %} 
 
+
 {% include feature_row id = "feature_row2" %}
+
 {% include feature_row id = "feature_row3" %}
 
 {% include feature_row id="feature_row4" type="center" %}<!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
