@@ -4,4 +4,27 @@
     width: 100%;
   }
 
+/* Add to your main CSS file (typically located in assets/css/ or css/ directory) */
+
+/* Define different background colors for sections */
+#intro {
+  background-color: #f7f7f7; /* Light grey background */
+  padding: 50px 0;
+}
+
+#feature_row2 {
+  background-color: #e6f7ff; /* Light blue background */
+  padding: 50px 0;
+}
+
+#feature_row3 {
+  background-color: #fff0f5; /* Light pink background */
+  padding: 50px 0;
+}
+
+#feature_row4 {
+  background-color: #e2f9e1; /* Light green background */
+  padding: 50px 0;
+}
+
   
