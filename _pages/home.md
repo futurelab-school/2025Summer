@@ -30,7 +30,7 @@ feature_row:
     excerpt: "Apply Machine learning optimziation to you reserach!"
 
 feature_row2: 
-  overlay_color: "#828282"
+  # overlay_color: "#828282"
   title: "Eligiility"
   excerpt: ""
 
