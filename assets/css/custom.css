@@ -38,5 +38,20 @@
   border-radius: 8px;
 }
 
+.colored-section {
+  background-color: #333; /* Change this to the color you prefer */
+  color: white;           /* Adjust the text color to ensure readability */
+  padding: 50px;          /* Optional: add some padding for spacing */
+}
+
+/* Additional styling for heading and paragraph */
+.colored-section h2 {
+  font-size: 2rem;
+}
+
+.colored-section p {
+  font-size: 1.2rem;
+}
+
 
 
