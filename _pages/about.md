@@ -5,10 +5,15 @@ layout: single
 
 feature_row:
   - image_path: /assets/images/lawrence.png
-
+    image_width: 300
+    image_height: 200
   - image_path: /assets/images/foundary.png
-
+    image_width: 300
+    image_height: 200
   - image_path: /assets/images/uwlogo.png
+    image_width: 300
+    image_height: 200
+
 
 ---
 
