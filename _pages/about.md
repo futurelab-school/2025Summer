@@ -5,7 +5,7 @@ layout: single
 
 feature_row:
   - image_path: /assets/images/lawrence.png
-  - image_path: /assets/images/Foundary.png
+  - image_path: /assets/images/foundary.png
   - image_path: /assets/images/washington.png
 
 ---
