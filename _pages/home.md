@@ -43,8 +43,4 @@ feature_row:
 # Welcome to Future Labs Summer School 2025
 {% include feature_row id="sections" %}
 
-<div class="custom-section">
-## My Title
-Some text here.
-</div>
 
