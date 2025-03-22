@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
   actions:
     - label: "Register"
-      url: /404.html
+      url: /about
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 
@@ -28,10 +28,6 @@ feature_row:
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Day 3"
     excerpt: "Apply Machine learning optimziation to you reserach!"
-
-feature_row2: 
-  title: "Eligibility"
-  excerpt: ""
 
 feature_row4:
   - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
@@ -53,7 +49,7 @@ feature_row4:
 - Professionals, Postdocs,Graduate Student, Undergraduate Student.
 - Basic expereince in python.
 
-{% include feature_row id="feature_row4" type="center" %}<!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
+{% include feature_row id="feature_row4" type="center" %} <!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
 
 <!-- 
