@@ -2,18 +2,19 @@
 layout: splash
 title: "2025 Future Labs Summer School"
 permalink: /school/
-header:
-  overlay_color: "#000" #"#5e616c"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
-  actions:
-    - label: "Register"
-      url: /404.html
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 
-intro: 
-  - excerpt: 'Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science'
+# header:
+#   overlay_color: "#000" #"#5e616c"
+#   overlay_filter: "0.5"
+#   overlay_image: /assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
+#   actions:
+#     - label: "Register"
+#       url: /404.html
+#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+# excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
+
+# intro: 
+#   - excerpt: 'Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science'
 
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
@@ -48,7 +49,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
+# Welcome to 2025 Summer School
 
 
 {% include feature_row id="intro" type="center" %} 
