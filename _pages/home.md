@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
   actions:
-    - label: "Register"
+    - label: "Learn More"
       url: /about
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
@@ -28,6 +28,11 @@ feature_row:
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Day 3"
     excerpt: "Apply Machine learning optimziation to you reserach!"
+
+feature_row3:
+  - url: "https://usermeeting2025.foundry.lbl.gov/meeting-registration/"
+    btn_label: "Register"
+    btn_class: "btn--primary"
 
 feature_row4:
   - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
@@ -49,7 +54,7 @@ feature_row4:
 - Those registered for the 2025 Molecular Foundary Annual Meeting.
 - Professionals, Postdocs,Graduate Student, Undergraduate Student.
 - Basic expereince in python.
-
+{% include feature_row id = "feature_row3" %}
 
 <br/>
 <br/>
