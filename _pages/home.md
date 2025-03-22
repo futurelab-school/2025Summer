@@ -51,10 +51,10 @@ feature_row4:
 - Basic expereince in python.
 
 
-<section id="landing" class="colored-section">
+<!-- <section id="landing" class="colored-section">
     <h2>Landing</h2>
     <p>Lorem ipsum dolor sit amet, nullam consequat.</p>
-</section>
+</section> -->
 
 
 <br/>
