@@ -19,15 +19,15 @@ intro:
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
     title: "Day 1"
-    excerpt: "Read through the safety training!"
+    excerpt: "Get hands on experience with robotic synthesis!"
 
   - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
     title: "Day 2"
-    excerpt: "Find the shared data for the course!"
+    excerpt: "Learn how to use Machine learning to analyse your data!"
 
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Day 3"
-    excerpt: "Find the shared code for the course!"
+    excerpt: "Apply Machine learning optimziation to you reserach!"
 
 feature_row2: 
   overlay_color: "#828282"
