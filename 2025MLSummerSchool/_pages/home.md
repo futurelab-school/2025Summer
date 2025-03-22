@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 
-sections:
+feature_row:
   - title: "Welcome to Future Labs Summer School 2025"
     subtitle: "Join us for a hands-on learning experience in material science and machine learning"
     image: /assets/images/intro-image.jpg
@@ -32,12 +32,19 @@ sections:
     link: "/preparation"
     link_label: "Learn More"
 
-  - title: "Readings and Research"
-    subtitle: "Access important papers from our instructors and researchers"
-    image: /assets/images/research-image.jpg
-    link: "https://www.uwsunlab.com/papers"
-    link_label: "View Papers"
+  # - title: "Readings and Research"
+  #   subtitle: "Access important papers from our instructors and researchers"
+  #   image: /assets/images/research-image.jpg
+  #   link: "https://www.uwsunlab.com/papers"
+  #   link_label: "View Papers"
 ---
+{% include feature_row id="intro" type="center" %} 
 
 # Welcome to Future Labs Summer School 2025
-{% include section id="sections" %}
+{% include feature_row id="sections" %}
+
+<div class="custom-section">
+## My Title
+Some text here.
+</div>
+

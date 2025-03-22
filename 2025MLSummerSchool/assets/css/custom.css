@@ -30,3 +30,13 @@
   border-radius: 5px;
   text-decoration: none;
 }
+
+.custom-section {
+  background-color: #f0f8ff;
+  color: #333;
+  padding: 1em;
+  border-radius: 8px;
+}
+
+
+

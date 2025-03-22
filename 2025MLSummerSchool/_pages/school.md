@@ -11,9 +11,9 @@ header:
       url: /404.html
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
+
 intro: 
   - excerpt: 'Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science'
-
 
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
