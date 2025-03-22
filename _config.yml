@@ -30,7 +30,7 @@ url                      : https://github.com/uwsunlab
 baseurl                  : "/2025-MLSummerSchool" # the subpath of your site, e.g. "/blog"
 repository               : "2025-MLSummerSchool" # GitHub repository to help with editing content
 logo                     : "/assets/images/uwsunlab_logo.png"
-
+theme: minimal-mistakes-jekyll
 
 # Build settings
 markdown: kramdown
