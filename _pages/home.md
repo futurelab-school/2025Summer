@@ -12,24 +12,22 @@ header:
       url: "/register"
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 
+intro: 
+- title: "Join us Aug 13-15 to learn about Robotics and Machine learning for energy material research!
+
+
 feature_row:
-  - title: "Welcome to Future Labs Summer School 2025"
+  - title: "Day 1"
     subtitle: "Join us for a hands-on learning experience in material science and machine learning"
-    image: /assets/images/intro-image.jpg
-    link: "/register"
-    link_label: "Register Now"
+    image: /assets/images/testalize-me-igSTmAWAW3s-unsplash.jpg
 
-  - title: "Workshops and Sessions"
-    subtitle: "Dive into practical workshops that explore cutting-edge technology"
-    image: /assets/images/workshop-image.jpg
-    link: "/workshops"
-    link_label: "Explore Workshops"
+  - title: "Day 2"
+    subtitle: "Dive into practical workshops that explore machine learning"
+    image: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
 
-  - title: "Safety & Preparation"
-    subtitle: "All you need to know about preparing for the event"
-    image: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
-    link: "/preparation"
-    link_label: "Learn More"
+  - title: "Day 3"
+    subtitle: "Work on integrating Bayesian Optimization from collected data"
+    image: /assets/images/growtika-nGoCBxiaRO0-unsplash.jpg
 
   # - title: "Readings and Research"
   #   subtitle: "Access important papers from our instructors and researchers"
@@ -37,9 +35,7 @@ feature_row:
   #   link: "https://www.uwsunlab.com/papers"
   #   link_label: "View Papers"
 ---
+# Welcome to Future Labs Summer School 2025
 {% include feature_row id="intro" type="center" %} 
 
-# Welcome to Future Labs Summer School 2025
 {% include feature_row %}
-
-
