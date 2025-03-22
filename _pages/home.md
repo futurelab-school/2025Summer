@@ -29,6 +29,11 @@ feature_row:
     title: "Day 3"
     excerpt: "Find the shared code for the course!"
 
+feature_row2: 
+  overlay_color: "#828282"
+  title: "Eligiility"
+  excerpt: ""
+
 feature_row4:
   - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
     alt: "Readings"
@@ -43,6 +48,8 @@ feature_row4:
 {% include feature_row id="intro" type="center" %} 
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type = "left"%}
 
 {% include feature_row id="feature_row4" type="center" %}<!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
