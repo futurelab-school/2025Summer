@@ -4,10 +4,12 @@
   padding: 20px;
 }
 
-.feature-row img {
-  max-width: 130%;
+.feature_row1 img {
+  width: 100%;
+  max-width: 600px; /* Set the max-width as per your requirement */
   height: auto;
 }
+
 
 .feature-row .feature-content {
   text-align: center;
@@ -52,6 +54,7 @@
 .colored-section p {
   font-size: 1.2rem;
 }
+
 
 
 
