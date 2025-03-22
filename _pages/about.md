@@ -4,7 +4,7 @@ title: "About"
 layout: single
 
 feature_row:
-  image_path: /assets/images/2025_Hosts.png
+  - image_path: /assets/images/2025_Hosts.png
 
 ---
 
@@ -22,4 +22,3 @@ The deadline to register is Monday, June 23, 2025. Please complete the registrat
 
 ## Hoasted by: 
 {% include feature_row type = "center" %}
-[image-center](assets/images/2025_Hosts.png){: .align-center}
