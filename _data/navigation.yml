@@ -5,14 +5,8 @@ main:
     url: /schedule/
   - title: "About" # Location
     url: /about/
-  # - title: "School"
-  #   url: /school/
-  # - title: "Posts"
-  #   url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
+  - title: "School"
+    url: /school/
 
   
 

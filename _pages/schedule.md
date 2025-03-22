@@ -3,8 +3,6 @@ permalink: /schedule/
 title: "Schedule"
 layout: single
 ---
-
-
 # Workshop Agenda
 
 ## Day 1: Molecular Foundry - Summer School Only
