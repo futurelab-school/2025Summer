@@ -4,16 +4,7 @@ title: "About"
 layout: single
 
 feature_row:
-  - image_path: /assets/images/lawrence.png
-    image_width: 300
-    image_height: 200
-  - image_path: /assets/images/foundary.png
-    image_width: 300
-    image_height: 200
-  - image_path: /assets/images/uwlogo.png
-    image_width: 300
-    image_height: 200
-
+  - image_path: /assets/images/2025_Hosts.png
 
 ---
 
@@ -30,6 +21,6 @@ The deadline to register is Monday, June 23, 2025. Please complete the registrat
 - Emerging Energy Materials Focus: We will teach you on the emergent thin film semiconductors halide perovskites for energy applications. These materials have their own challenges that we aim to tackle with AI/ML technologies. 
 
 ## Hoasted by: 
-{% include feature_row id="feature_row" %}
+{% include feature_row id="feature_row" type = "center"%}
 <!-- ![image-center](/assets/images/bio-photo.jpg){: .align-center} -->
 

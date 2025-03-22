@@ -30,8 +30,7 @@ feature_row:
     excerpt: "Apply Machine learning optimziation to you reserach!"
 
 feature_row2: 
-  # overlay_color: "#828282"
-  title: "Eligiility"
+  title: "Eligibility"
   excerpt: ""
 
 feature_row4:
@@ -49,7 +48,10 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type = "left"%}
+## Who is eligible to register for the summer course?
+- Those registered for the 2025 Molecular Foundary Annual Meeting.
+- Professionals, Postdocs,Graduate Student, Undergraduate Student.
+- Basic expereince in python.
 
 {% include feature_row id="feature_row4" type="center" %}<!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
