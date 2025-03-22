@@ -13,7 +13,7 @@ header:
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 
 intro: 
-- title: "Join us Aug 13-15 to learn about Robotics and Machine learning for energy material research!
+  - title: "Join us Aug 13-15 to learn about Robotics and Machine learning for energy material research!
 
 
 feature_row:
