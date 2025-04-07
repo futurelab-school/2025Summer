@@ -51,12 +51,12 @@ feature_row4:
   - title: "Readings from our Hosts"
     excerpt: 'Learn more thourgh some of the publications from our host!'
   
-  - image_path: /assets/images/lawrence.png
+  - # image_path: /assets/images/lawrence.png
     url: "https://www.uwsunlab.com/papers"
     btn_label: "Read More "
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/uwlogo.png
+  - # image_path: /assets/images/uwlogo.png
     url: https://sutterfellalab.lbl.gov/publications/
     btn_label: "Read More"
     btn_class: "btn--primary"
