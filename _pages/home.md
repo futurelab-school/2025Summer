@@ -18,8 +18,13 @@ intro:
 
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
+    # title: "Day 1"
+    # excerpt: "Get hands on experience with robotic synthesis!"
     title: "Day 1"
-    excerpt: "Get hands on experience with robotic synthesis!"
+    excerpt: "Get hands-on experience with robotic synthesis!"
+    url: /schedule/#day-1-molecular-foundry-summer-school-only
+    btn_label: "Day 1"
+    btn_class: "btn--primary"
 
   - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
     title: "Day 2"
