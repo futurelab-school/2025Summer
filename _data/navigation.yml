@@ -1,12 +1,16 @@
 main:
   - title: "Home"
     url: /home/
+    enabled: true
   - title: "Schedule"
     url: /schedule/
+    enabled: true
   - title: "About" # Location
     url: /about/
+    enabled: true
   - title: "School"
     url: /school/
+    enabled: false
 
   
 

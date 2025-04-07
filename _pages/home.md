@@ -14,7 +14,7 @@ header:
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 
 intro: 
-  - title: 'Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science'
+  - title: 'Join us August 13-15 for activities and workshops for applying machine learning to material science'
 
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
@@ -40,6 +40,9 @@ feature_row4:
     title: "Readings"
     excerpt: 'Learn more thourgh some of the publications from our host!'
     url: "https://www.uwsunlab.com/papers"
+    btn_label: "Read More "
+    btn_class: "btn--primary"
+  - url: https://sutterfellalab.lbl.gov/publications/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -48,7 +51,6 @@ feature_row4:
 {% include feature_row id="intro" type="center" %} 
 
 {% include feature_row %}
-
 
 ## Who is eligible to register for the summer course?
 - Those registered for the 2025 Molecular Foundary Annual Meeting.
