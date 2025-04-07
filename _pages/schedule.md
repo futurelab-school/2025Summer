@@ -5,7 +5,7 @@ layout: single
 ---
 # Workshop Agenda
 
-## Day 1: Molecular Foundry - Summer School Only
+## Day 1 Molecular Foundry - Summer School Only
 
 | Time   | Activity |
 |--------|---------|
@@ -22,7 +22,7 @@ layout: single
 | 5:30  | Wrap Up Day 1 |
 | 6:00  | Dinner |
 
-## Day 2: Molecular Foundry - Open to All User Meeting Attendees (Tutorial)
+## Day 2 Molecular Foundry - Open to All User Meeting Attendees (Tutorial)
 
 ### AM: Getting Data Machine Learning Ready
 
@@ -44,7 +44,7 @@ layout: single
 | 3:00  | Bayesian Optimization (Clara Tamura) |
 | 4:00  | Building an Active Learning Algorithm with Your Data |
 
-## Day 3: Open to All User Meeting Attendees (Symposium)
+## Day 3 Open to All User Meeting Attendees (Symposium)
 
 ### AM: Plenary Talks
 
