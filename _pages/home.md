@@ -35,18 +35,24 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
+  - image_path: assets/images/foundary.png
     alt: "Readings"
     title: "Readings"
     excerpt: 'Learn more thourgh some of the publications from our host!'
     url: "https://www.uwsunlab.com/papers"
     btn_label: "Read More "
     btn_class: "btn--primary"
-  - url: https://sutterfellalab.lbl.gov/publications/
+
+  - image_path: /assets/images/uwlogo.png
+    url: https://sutterfellalab.lbl.gov/publications/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+### Robotics and AI are regarded as transformative tools for scientific discovery and integral components of future laboratories. The primary goal of the summer school is to engage students in laboratory automation for the discovery of energy materials. Through lectures, coding tutorials, and robotic synthesis experiments, participants will explore closed-loop experiment design, machine learning, data handling and visualization, as well as hands-on lab work to create thin-film semiconductors using a robotic platform.
 
+## We aim to foster the development of the future workforce in materials science, engineering, computer science, physics, and related fields, anticipating that science and research will increasingly integrate artificial intelligence and machine learning (AI/ML).
+
+## The summer school is a 2.5 day event and open to all students and postdocs from interdisciplinary backgrounds. No prior coding experience is required. Participation in hands-on lab experiments is limited to selected participants due to space constraints.
 
 {% include feature_row id="intro" type="center" %} 
 
