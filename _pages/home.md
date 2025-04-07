@@ -20,19 +20,27 @@ feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
     # title: "Day 1"
     # excerpt: "Get hands on experience with robotic synthesis!"
-    title: "Day 1"
-    excerpt: "Get hands-on experience with robotic synthesis!"
-    url: /schedule/#day-1-molecular-foundry-summer-school-only
     btn_label: "Day 1"
     btn_class: "btn--primary"
+    excerpt: "Get hands-on experience with robotic synthesis!"
+    url: /schedule/#day-1-molecular-foundry-summer-school-only
+
 
   - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
-    title: "Day 2"
+    # title: "Day 2"
     excerpt: "Learn how to use Machine learning to analyse your data!"
+    btn_label: "Day 2"
+    btn_class: "btn--primary"
+    excerpt: "Get hands-on experience with robotic synthesis!"
+    url: /schedule/#day-2-molecular-foundry-open-to-all-user-meeting-attendees-tutorial
 
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
-    title: "Day 3"
+    #title: "Day 3"
     excerpt: "Apply Machine learning optimziation to you reserach!"
+    btn_label: "Day 3"
+    btn_class: "btn--primary"
+    excerpt: "Get hands-on experience with robotic synthesis!"
+    url: /schedule/#day-3-open-to-all-user-meeting-attendees-symposium
 
 feature_row3:
   - url: "https://usermeeting2025.foundry.lbl.gov/meeting-registration/"
@@ -40,10 +48,9 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: assets/images/foundary.png
-    alt: "Readings"
-    title: "Readings"
+  - title: "Readings from our Hosts"
     excerpt: 'Learn more thourgh some of the publications from our host!'
+    image_path: assets/images/foundary.png
     url: "https://www.uwsunlab.com/papers"
     btn_label: "Read More "
     btn_class: "btn--primary"
