@@ -19,9 +19,9 @@ feature_row:
 ## Hosted by: 
 <!-- {% include feature_row %} -->
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="/assets/images/lawrence.png" alt="Lawrence" style="height: 200px;">
-  <img src="/assets/images/foundary.png" alt="Foundary" style="height: 200px;">
-  <img src="/assets/images/washington.png" alt="Washington" style="height: 200px;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
+  <img src="/assets/images/lawrence.png" alt="Lawrence" style="height: 150px; border-radius: 8px;">
+  <img src="/assets/images/foundary.png" alt="Foundary" style="height: 150px; border-radius: 8px;">
+  <img src="/assets/images/washington.png" alt="Washington" style="height: 150px; border-radius: 8px;">
 </div>
 
