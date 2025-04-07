@@ -18,11 +18,7 @@ feature_row:
 - Emerging Energy Materials Focus: We will teach you on the emergent thin film semiconductors halide perovskites for energy applications. These materials have their own challenges that we aim to tackle with AI/ML technologies. 
 
 ## Hosted by: 
-{% include feature_row %}
+{% include feature_row type="center" %}
 
-<div>
-  <img src="/assets/images/lawrence.png" alt="Lawrence" style="height: 150px; border-radius: 8px;">
-  <img src="/assets/images/foundary.png" alt="Foundary" style="height: 150px; border-radius: 8px;">
-  <img src="/assets/images/washington.png" alt="Washington" style="height: 150px; border-radius: 8px;">
-</div>
+
 
