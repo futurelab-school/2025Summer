@@ -3,11 +3,12 @@ permalink: /about/
 title: "About"
 layout: single
 
+# feature_row:
+#   - image_path: /assets/images/lawrence.png
+#   - image_path: /assets/images/foundary.png
+#   - image_path: /assets/images/washington.png
 feature_row:
-  - image_path: /assets/images/lawrence.png
-  - image_path: /assets/images/foundary.png
-  - image_path: /assets/images/washington.png
-
+  - image_path: /assets/images/2025_Hosts.png
 ---
 
 ## Scope:
@@ -17,7 +18,7 @@ feature_row:
 - Emerging Energy Materials Focus: We will teach you on the emergent thin film semiconductors halide perovskites for energy applications. These materials have their own challenges that we aim to tackle with AI/ML technologies. 
 
 ## Hosted by: 
-<!-- {% include feature_row %} -->
+{% include feature_row %}
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
   <img src="/assets/images/lawrence.png" alt="Lawrence" style="height: 150px; border-radius: 8px;">
