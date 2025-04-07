@@ -47,10 +47,11 @@ feature_row3:
     btn_label: "Register"
     btn_class: "btn--primary"
 
-feature_row4:
+feature_row5:
   - title: "Readings from our Hosts"
     excerpt: 'Learn more thourgh some of the publications from our host!'
-  
+
+feature_row4:
   - # image_path: /assets/images/lawrence.png
     url: "https://www.uwsunlab.com/papers"
     btn_label: "Read More "
@@ -80,7 +81,14 @@ feature_row4:
 
 <br/>
 <br/>
-{% include feature_row id="feature_row4" type="center" %} <!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
+
+<!-- ## "Readings from our Hosts"
+#  'Learn more thourgh some of the publications from our host!' -->
+
+{% include feature_row id="feature_row5" type="center" %} 
+
+{% include feature_row id="feature_row4" type="center" %} 
+<!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
 
 <!-- 
