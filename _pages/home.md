@@ -81,14 +81,16 @@ feature_row4:
 - Basic expereince in python.
 {% include feature_row id = "feature_row3" %}
 
-<br/>
-
 <!-- ## "Readings from our Hosts"
 #  'Learn more thourgh some of the publications from our host!' -->
 
 {% include feature_row id="feature_row5" type="center" %} 
 
-{% include feature_row id="feature_row4" type="center" %} 
+<!-- {% include feature_row id="feature_row4" type="center" %}  -->
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.uwsunlab.com/papers" class="btn btn--primary">Read More @ UWSunLab</a>
+  <a href="https://sutterfellalab.lbl.gov/publications/" class="btn btn--primary">Read More @ Lawrence National Labs</a>
+</div>
 <!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
 
