@@ -64,11 +64,11 @@ feature_row4:
 ---
 {% include feature_row id="intro" type="center" %} 
 
-### Robotics and AI are regarded as transformative tools for scientific discovery and integral components of future laboratories. The primary goal of the summer school is to engage students in laboratory automation for the discovery of energy materials. Through lectures, coding tutorials, and robotic synthesis experiments, participants will explore closed-loop experiment design, machine learning, data handling and visualization, as well as hands-on lab work to create thin-film semiconductors using a robotic platform.
+Robotics and AI are regarded as transformative tools for scientific discovery and integral components of future laboratories. The primary goal of the summer school is to engage students in laboratory automation for the discovery of energy materials. Through lectures, coding tutorials, and robotic synthesis experiments, participants will explore closed-loop experiment design, machine learning, data handling and visualization, as well as hands-on lab work to create thin-film semiconductors using a robotic platform.
 
-### We aim to foster the development of the future workforce in materials science, engineering, computer science, physics, and related fields, anticipating that science and research will increasingly integrate artificial intelligence and machine learning (AI/ML).
+We aim to foster the development of the future workforce in materials science, engineering, computer science, physics, and related fields, anticipating that science and research will increasingly integrate artificial intelligence and machine learning (AI/ML).
 
-### The summer school is a 2.5 day event and open to all students and postdocs from interdisciplinary backgrounds. No prior coding experience is required. Participation in hands-on lab experiments is limited to selected participants due to space constraints.
+The summer school is a 2.5 day event and open to all students and postdocs from interdisciplinary backgrounds. No prior coding experience is required. Participation in hands-on lab experiments is limited to selected participants due to space constraints.
 
 <br/>
 
