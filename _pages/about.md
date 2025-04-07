@@ -22,6 +22,6 @@ The deadline to register is Monday, June 23, 2025. Please complete the registrat
 - Gaps Identification: We will pinpoint deficiencies in knowledge and training that hinder the utilization of AI/ML in materials sciences. Participants will explore AI/ML tools to complement research practices. 
 - Emerging Energy Materials Focus: We will teach you on the emergent thin film semiconductors halide perovskites for energy applications. These materials have their own challenges that we aim to tackle with AI/ML technologies. 
 
-## Hoasted by: 
+## Hosted by: 
 {% include feature_row %}
 

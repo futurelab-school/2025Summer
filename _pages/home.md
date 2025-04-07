@@ -78,7 +78,8 @@ feature_row4:
 ## Who is eligible to register for the summer course?
 - Those registered for the 2025 Molecular Foundary Annual Meeting.
 - Professionals, Postdocs,Graduate Student, Undergraduate Student.
-- Basic expereince in python.
+- Little to no experience in Python.
+
 {% include feature_row id = "feature_row3" %}
 
 <!-- ## "Readings from our Hosts"
