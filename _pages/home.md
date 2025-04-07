@@ -54,12 +54,12 @@ feature_row5:
 feature_row4:
   - # image_path: /assets/images/lawrence.png
     url: "https://www.uwsunlab.com/papers"
-    btn_label: "Read More "
+    btn_label: "Read More @ UWSunLab"
     btn_class: "btn--primary"
 
   - # image_path: /assets/images/uwlogo.png
     url: https://sutterfellalab.lbl.gov/publications/
-    btn_label: "Read More"
+    btn_label: "Read More @ Lawrence National Labs"
     btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %} 
@@ -70,7 +70,9 @@ feature_row4:
 
 ### The summer school is a 2.5 day event and open to all students and postdocs from interdisciplinary backgrounds. No prior coding experience is required. Participation in hands-on lab experiments is limited to selected participants due to space constraints.
 
+<br/>
 
+## Schedule
 {% include feature_row %}
 
 ## Who is eligible to register for the summer course?
@@ -79,7 +81,6 @@ feature_row4:
 - Basic expereince in python.
 {% include feature_row id = "feature_row3" %}
 
-<br/>
 <br/>
 
 <!-- ## "Readings from our Hosts"
