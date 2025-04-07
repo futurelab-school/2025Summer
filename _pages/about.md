@@ -8,7 +8,8 @@ layout: single
 #   - image_path: /assets/images/foundary.png
 #   - image_path: /assets/images/washington.png
 feature_row:
-  - image_path: /assets/images/host_logos.png
+  - image_path: /assets/images/host_logos.png 
+  - image_width: 800px
 ---
 
 ## Scope:
