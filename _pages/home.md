@@ -32,8 +32,8 @@ feature_row:
     btn_label: "Day 2"
     btn_class: "btn--primary"
     excerpt: "Get hands-on experience with robotic synthesis!"
-    url: /schedule/#day-2-molecular-foundry-open-to-all-user-meeting-attendees-tutorial
-
+    url: /schedule/#day-2-molecular-foundry---open-to-all-user-meeting-attendees-tutorial
+        
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     #title: "Day 3"
     excerpt: "Apply Machine learning optimziation to you reserach!"
