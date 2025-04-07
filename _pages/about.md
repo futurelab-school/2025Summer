@@ -8,7 +8,7 @@ layout: single
 #   - image_path: /assets/images/foundary.png
 #   - image_path: /assets/images/washington.png
 feature_row:
-  - image_path: /assets/images/2025_Hosts.png
+  - image_path: /assets/images/host_logos.png
 ---
 
 ## Scope:
@@ -20,7 +20,7 @@ feature_row:
 ## Hosted by: 
 {% include feature_row %}
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
+<div>
   <img src="/assets/images/lawrence.png" alt="Lawrence" style="height: 150px; border-radius: 8px;">
   <img src="/assets/images/foundary.png" alt="Foundary" style="height: 150px; border-radius: 8px;">
   <img src="/assets/images/washington.png" alt="Washington" style="height: 150px; border-radius: 8px;">
