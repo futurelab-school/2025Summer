@@ -14,7 +14,7 @@ header:
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 
 intro: 
-  - title: 'Join us August 13-15 for activities and workshops for applying machine learning to material science'
+  - title: 'Join us at the Lawrence Berkeley National Lab, CA, from August 13-15 for activities and workshops for applying machine learning to material science'
 
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
