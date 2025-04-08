@@ -21,7 +21,7 @@ feature_row:
 ## Hosted by: 
 <!-- {% include feature_row type="center" %} -->
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/host_logos.png " alt="" class="full">
+<img src="/assets/images/host_logos.png " alt="" class="full">
 
 
 
