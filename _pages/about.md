@@ -9,7 +9,7 @@ layout: single
 #   - image_path: /assets/images/washington.png
 feature_row:
   - image_path: /assets/images/host_logos.png 
-  - image_width: 800px
+  - image_width: 100%
 ---
 
 ## Scope:
@@ -20,6 +20,8 @@ feature_row:
 
 ## Hosted by: 
 {% include feature_row type="center" %}
+
+<img src="/assets/images/host_logos.png " alt="description" style="width: 100%;">
 
 
 
