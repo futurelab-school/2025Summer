@@ -18,11 +18,10 @@ feature_row:
 - Gaps Identification: We will pinpoint deficiencies in knowledge and training that hinder the utilization of AI/ML in materials sciences. Participants will explore AI/ML tools to complement research practices. 
 - Emerging Energy Materials Focus: We will teach you on the emergent thin film semiconductors halide perovskites for energy applications. These materials have their own challenges that we aim to tackle with AI/ML technologies. 
 
-## Hosted by: 
-<!-- {% include feature_row type="center" %} -->
+
 
 ## Hosted by:
-
+<!-- {% include feature_row type="center" %} -->
 {% include figure  image_path="/assets/images/host_logos.png"  alt="Host logos"  width="100%" class="align-center" %}
 
 
