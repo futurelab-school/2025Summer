@@ -21,7 +21,6 @@ feature_row:
 ## Hosted by: 
 {% include feature_row type="center" %}
 
-<img src="/assets/images/host_logos.png " alt="Hosts" style="width: 100%;">
 
 
 
