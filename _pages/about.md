@@ -21,10 +21,9 @@ feature_row:
 ## Hosted by: 
 <!-- {% include feature_row type="center" %} -->
 
-<figure class="half">
-    <a href="/assets/images/host_logos.png"><img src="/assets/images/host_logos.png "></a>
-</figure>
+## Hosted by:
 
+{% include figure  image_path="/assets/images/host_logos.png"  alt="Host logos"  width="100%" class="align-center" %}
 
 
 

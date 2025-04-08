@@ -94,6 +94,13 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 </div>
 <!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
+{% if page.page_css %}
+  {% for stylesheet in page.page_css %}
+    <link rel="stylesheet" href="{{ stylesheet | relative_url }}">
+  {% endfor %}
+{% endif %}
+
+
 
 <!-- 
 another placeholder can be info about preparing for the summer school/ good to know. here we will add safety information, min. PPE
