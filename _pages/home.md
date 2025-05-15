@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/igor-omilaev-FHgWFzDDAOs-unsplash.jpg
   actions:
     - label: "Learn More"
-      url: /about
+      url: /home/#schedule
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 

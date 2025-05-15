@@ -24,6 +24,8 @@ feature_row:
     url: "https://drive.google.com/drive/"
     btn_label: "Saftey"
     btn_class: "btn--primary"
+
+feature_row1:
   - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     title: "Shared Data"
@@ -31,6 +33,8 @@ feature_row:
     url: "https://drive.google.com/drive/"
     btn_label: "Data"
     btn_class: "btn--primary"
+
+feature_row2:
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     title: "Shared Code"
@@ -38,7 +42,6 @@ feature_row:
     url: "https://colab.research.google.com/"
     btn_label: "Code"
     btn_class: "btn--primary"
-
 
 feature_row4:
   - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
@@ -54,9 +57,12 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %} 
 
-{% include feature_row %}
+{% include feature_row1 type = "left"%}
 
-{% include feature_row id="feature_row4" type="center" %}<!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
+{% include feature_row2 type = "left"%}
+
+
+<!-- {% include feature_row id="feature_row4" type="center" %} One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
 
 <!-- 
