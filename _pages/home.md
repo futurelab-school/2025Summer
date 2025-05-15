@@ -28,7 +28,7 @@ feature_row:
 
   - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
     # title: "Day 2"
-    excerpt: "Learn how to use Machine learning to analyse your data!"
+    excerpt: "Learn how to prepare data for your machine learning models!"
     btn_label: "Day 2"
     btn_class: "btn--primary"
     excerpt: "Learn scientific computing for machine learning!"
@@ -39,7 +39,7 @@ feature_row:
     excerpt: "Apply Machine learning optimziation to you reserach!"
     btn_label: "Day 3"
     btn_class: "btn--primary"
-    excerpt: "Learn active learning mchine learning for optimization!"
+    excerpt: "Apply active learning algorithms for materials optimization!"
     url: /schedule/#day-3-open-to-all-user-meeting-attendees-symposium
 
 feature_row3:
