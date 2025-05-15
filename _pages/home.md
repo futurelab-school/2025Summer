@@ -31,7 +31,7 @@ feature_row:
     excerpt: "Learn how to use Machine learning to analyse your data!"
     btn_label: "Day 2"
     btn_class: "btn--primary"
-    excerpt: "Get hands-on experience with robotic synthesis!"
+    excerpt: "Learn scientific computing for machine learning!"
     url: /schedule/#day-2-molecular-foundry---open-to-all-user-meeting-attendees-tutorial
         
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
@@ -39,7 +39,7 @@ feature_row:
     excerpt: "Apply Machine learning optimziation to you reserach!"
     btn_label: "Day 3"
     btn_class: "btn--primary"
-    excerpt: "Get hands-on experience with robotic synthesis!"
+    excerpt: "Learn active learning mchine learning for optimization!"
     url: /schedule/#day-3-open-to-all-user-meeting-attendees-symposium
 
 feature_row3:
