@@ -31,12 +31,12 @@ feature_row:
     excerpt: "Learn how to prepare data for your machine learning models!"
     btn_label: "Day 2"
     btn_class: "btn--primary"
-    excerpt: "Learn scientific computing for machine learning!"
+    excerpt: "Apply active learning algorithms for material optimization!"
     url: /schedule/#day-2-molecular-foundry---open-to-all-user-meeting-attendees-tutorial
         
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     #title: "Day 3"
-    excerpt: "Apply Machine learning optimziation to you reserach!"
+    excerpt: "Join leaders in the field for the AI/ML enabled Materials Development Symposium!"
     btn_label: "Day 3"
     btn_class: "btn--primary"
     excerpt: "Apply active learning algorithms for materials optimization!"
