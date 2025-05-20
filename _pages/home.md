@@ -78,7 +78,8 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 ## Who is eligible to register for the summer course?
 - Those registered for the 2025 Molecular Foundary Annual Meeting.
 - Professionals,  Postdocs,  Graduate Students,  Undergraduate Students.
-- Little to no experience in Python.
+
+All coding activities will have ChatGPT-assisted coding, so no Python or coding mastery is required.
 
 {% include feature_row id = "feature_row3" %}
 
