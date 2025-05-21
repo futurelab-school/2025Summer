@@ -77,6 +77,8 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 - Those registered for the 2025 Molecular Foundary Annual Meeting.
 - Professionals,  Postdocs,  Graduate Students,  Undergraduate Students.
 
+All coding activities will have ChatGPT-assisted coding, so no Python or coding mastery is required.
+
 ## Invited Speakers
 - Dr. Maria Chan, Argonne National Laboratory\
 - Dr. Amalie Trewartha, Toyota Research Institute
@@ -84,7 +86,7 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
   
 * Speaker list to be updated
 
-All coding activities will have ChatGPT-assisted coding, so no Python or coding mastery is required.
+
 
 {% include feature_row id = "feature_row3" %}
 
