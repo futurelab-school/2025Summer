@@ -28,7 +28,6 @@ feature_row:
 
   - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
     # title: "Day 2"
-    excerpt: "Learn how to prepare data for your machine learning models!"
     btn_label: "Day 2"
     btn_class: "btn--primary"
     excerpt: "Apply active learning algorithms for material optimization!"
@@ -39,7 +38,6 @@ feature_row:
     excerpt: "Join leaders in the field for the AI/ML enabled Materials Development Symposium!"
     btn_label: "Day 3"
     btn_class: "btn--primary"
-    excerpt: "Apply active learning algorithms for materials optimization!"
     url: /schedule/#day-3-open-to-all-user-meeting-attendees-symposium
 
 feature_row3:
@@ -79,12 +77,19 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 - Those registered for the 2025 Molecular Foundary Annual Meeting.
 - Professionals,  Postdocs,  Graduate Students,  Undergraduate Students.
 
+## Invited Speakers
+- Dr. Maria Chan, Argonne National Laboratory\
+- Dr. Amalie Trewartha, Toyota Research Institute
+- Dr. Luis Barroso-Luque, Meta
+  
+* Speaker list to be updated
+
 All coding activities will have ChatGPT-assisted coding, so no Python or coding mastery is required.
 
 {% include feature_row id = "feature_row3" %}
 
 <!-- ## "Readings from our Hosts"
-#  'Learn more thourgh some of the publications from our host!' -->
+#  'Learn more through some of the publications from our host!' -->
 
 {% include feature_row id="feature_row5" type="center" %} 
 
