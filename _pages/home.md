@@ -80,9 +80,9 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 All coding activities will have ChatGPT-assisted coding, so no Python or coding mastery is required.
 
 ## Invited Speakers
-- Dr. Maria Chan, Argonne National Laboratory\
-- Dr. Amalie Trewartha, Toyota Research Institute
-- Dr. Luis Barroso-Luque, Meta
+- Dr. Maria Chan [Argonne National Laboratory ]
+- Dr. Amalie Trewartha [Toyota Research Institute]
+- Dr. Luis Barroso-Luque [Meta]
   
 * Speaker list to be updated
 
