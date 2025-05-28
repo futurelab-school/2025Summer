@@ -34,9 +34,9 @@ layout: single
 | Time   | Activity |
 |--------|----------|
 | 9:00   | **Intro Using Google Colab – Hands-on** *(Ed, Morgan)*<br>• Bring your own data<br>• Convert code into Colab notebooks<br>• Connect to data sources<br>• Prepare data for ML & score generation |
-| 10:00  | **Data Pre-processing I: Featurization and Visualization Tutorial** *(Shuan)* |
+| 10:00  | **Data Pre-processing I: Featurization and Visualization Tutorial** *(Shuan Chang)* |
 | 10:30  | Break |
-| 11:00  | **Data Pre-processing II: Hands-on Heterogeneity Score Generation** *(Shuan, Thong)*<br>• PL Spectra<br>• UV-Vis<br>• PL Imaging |
+| 11:00  | **Data Pre-processing II: Hands-on Heterogeneity Score Generation** *(Shuan Chang, Thong)*<br>• PL Spectra<br>• UV-Vis<br>• PL Imaging |
 | 12:00  | **Lunch Break** |
 
 ---
@@ -68,7 +68,7 @@ layout: single
 | 2:00   | **Academic Talk:** *Dr. Maria Chan (Argonne National Laboratory) – Invited* |
 | 2:30   | Break |
 | 3:00   | **Contributed Talk:** *Ansuman Halder – AutoBot* |
-| 3:15   | **Contributed Talk:** *Sasha – ALD Bot* |
+| 3:15   | **Contributed Talk:** *ALD Bot* |
 | 3:30   | **Industry Talk:** *Dr. Luis Barroso-Luque (Meta) – Invited* |
 | 4:00   | **Closing Remarks** – End of Workshop |
 
