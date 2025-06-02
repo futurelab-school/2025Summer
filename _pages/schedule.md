@@ -10,10 +10,10 @@ layout: single
 | Time   | Activity                                                                 |
 |--------|--------------------------------------------------------------------------|
 | 9:00   | Welcome                                                                   |
-| 9:15   | Machine Learning & AI Overview (Human & Robot Workflows)                 |
+| 9:15   | Big Picture (AI &  Human & Robots)                 |
 | 9:45   | Introduction to Halide Perovskites — *Speaker: Carolin Sutter-Fella*     |
-| 10:15  | Introduction of Teams (3 teams provide chemistries for experiments)      |
-| 10:45  | Break                                                                     |
+| 10:15  | Break        |
+| 10:45  | Introduction of Teams                                                       |
 | 11:15  | Lab Safety Briefing                                                       |
 | 11:30  | **Lunch Break**                                                           |
 | 12:30  | **Project Work Start**                                                    |
@@ -33,10 +33,10 @@ layout: single
 
 | Time   | Activity |
 |--------|----------|
-| 9:00   | **Intro Using Google Colab – Hands-on** *(Ed, Morgan)*<br>• Bring your own data<br>• Convert code into Colab notebooks<br>• Connect to data sources<br>• Prepare data for ML & score generation |
+| 9:00   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources<br>• Prepare data for ML & score generation |
 | 10:00  | **Data Pre-processing I: Featurization and Visualization Tutorial** *(Shuan Chang)* |
 | 10:30  | Break |
-| 11:00  | **Data Pre-processing II: Hands-on Heterogeneity Score Generation** *(Shuan Chang, Thong)*<br>• PL Spectra<br>• UV-Vis<br>• PL Imaging |
+| 11:00  | **Data Pre-processing II: Hands-on Heterogeneity Score Generation** *(Shuan Cheng, Thong Nguyen)*<br>• PL Spectra<br>• UV-Vis<br>• PL Imaging |
 | 12:00  | **Lunch Break** |
 
 ---
@@ -45,11 +45,12 @@ layout: single
 
 | Time   | Activity |
 |--------|----------|
-| 1:00   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* |
-| 2:00   | **Building a Gaussian Process Model with Your Data** *(Maher Alghalayini or Marcus Noack)* |
+| 1:00   | **Machine Learning Overview** |
+| 1:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* |
+| 2:00   | •Building a Gaussian Process Model with Your Data** *(Maher Alghalayini)* |
 | 2:30   | Break |
-| 3:00   | **Bayesian Optimization** *(Clara Tamura)* |
-| 4:00   | **Building an Active Learning Algorithm with Your Data** *(Clara Tamura)* |
+| 3:00   | **Bayesian Optimization and Active Learnign** *(Clara Tamura)* |
+| 4:00   | <br>• Bayesian Optimization using Pool of Data      |
 
 ---
 
