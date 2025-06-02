@@ -34,9 +34,9 @@ layout: single
 | Time   | Activity |
 |--------|----------|
 | 9:00   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources<br>• Prepare data for ML & score generation |
-| 10:00  | **Data Pre-processing I: Featurization and Visualization Tutorial** *(Shuan Chang)* |
+| 10:00  | **Extracting machine-readable metrics for thin films I** *(Shuan Chang)*  <br> |
 | 10:30  | Break |
-| 11:00  | **Data Pre-processing II: Hands-on Heterogeneity Score Generation** *(Shuan Cheng, Thong Nguyen)*<br>• PL Spectra<br>• UV-Vis<br>• PL Imaging |
+| 11:00  | **Extracting machine-readable metrics for thin films II** *(Shuan Cheng, Thong Nguyen)*<br>• UV-Vis Metric<br>• PL Metrics <br>• PL Image Metric |
 | 12:00  | **Lunch Break** |
 
 ---
