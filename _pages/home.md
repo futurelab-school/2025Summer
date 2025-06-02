@@ -46,8 +46,34 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row5:
-  - title: "Readings from our Hosts"
-    excerpt: 'Learn more thourgh some of the publications from our host!'
+  - title: "Meet our Hosts"
+    excerpt: "Meet our hosts, workshop leader and teaching assistants: "
+  - image_path: /assets/images/shijing_sun.jpg
+    caption: "Host"
+    excerpt: "Dr. Shijing Sun, Univeristy of Washington"
+  - image_path: /assets/images/carolin_sutterfella.jpg
+    caption: "Host"
+    excerpt: "Dr. Carolin M. Sutter-Fella, Molecular Foundry"
+
+feature_hosts: 
+   - image_path: /assets/images/maher_alghalayini.jpg
+     caption: "Workshop Lead"
+     excerpt: "Dr. Maher Alghalayini, Molecular Foundry"
+   - image_path: /assets/images/shuan_cheng.jpg
+     caption: "Workshop Lead"
+     excerpt: "Shuan Cheng, Univeristy of Washington"
+   - image_path: /assets/images/ansuman_halder.jpg
+     caption: "Workshop Lead"
+     excerpt: "Ansuman_halder, Molecular Foundry"
+   - image_path: /assets/images/clara_tamura.jpg
+     caption: "Workshop Lead"
+     excerpt: "Clara Tamura, Univeristy of Washington" 
+   - image_path: /assets/images/abby_hering.jpg
+     caption: "Workshop Lead"
+     excerpt: "Abby Hering, UC Davis" 
+   - image_path: /assets/images/rapha_moral.jpg
+     caption: "Workshop Lead"
+     excerpt: "Rapha Moral,  Molecular Foundry" 
 
 feature_row4:
   - # image_path: /assets/images/lawrence.png
@@ -94,6 +120,8 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 #  'Learn more through some of the publications from our host!' -->
 
 {% include feature_row id="feature_row5" type="center" %} 
+
+{% include feature_row id="feature_hosts" type="center" %} 
 
 <!-- {% include feature_row id="feature_row4" type="center" %}  -->
 <div style="display: flex; justify-content: center; gap: 20px;">

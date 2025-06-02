@@ -33,7 +33,7 @@ layout: single
 
 | Time   | Activity |
 |--------|----------|
-| 9:00   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources<br>• Prepare data for ML & score generation |
+| 9:00   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources <br>• Prepare data for ML & score generation |
 | 10:00  | **Extracting machine-readable metrics for thin films I** *(Shuan Cheng)*  <br> |
 | 10:30  | Break |
 | 11:00  | **Extracting machine-readable metrics for thin films II** *(Shuan Cheng, Thong Nguyen)*<br>• UV-Vis Metric<br>• PL Metrics <br>• PL Image Metric |
@@ -49,8 +49,8 @@ layout: single
 | 1:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* |
 | 2:00   | •Building a Gaussian Process Model with Your Data** *(Maher Alghalayini)* |
 | 2:30   | Break |
-| 3:00   | **Bayesian Optimization and Active Learnign** *(Clara Tamura)* |
-| 4:00   | <br>• Bayesian Optimization using Pool of Data      |
+| 3:00   | **Bayesian Optimization and Active Learnign** *(Clara Tamura)* <br>• Color mixing game <br>• How does BO work <br>• Build your own BO |
+| 4:55   | Wrap Up Day 2
 
 ---
 
@@ -69,7 +69,7 @@ layout: single
 | 2:00   | **Academic Talk:** *Dr. Maria Chan (Argonne National Laboratory) – Invited* |
 | 2:30   | Break |
 | 3:00   | **Contributed Talk:** *Ansuman Halder – AutoBot* |
-| 3:15   | **Contributed Talk:** *Mengying Liu - Invited*|
+| 3:15   | **Contributed Talk:** *Mengying Liu - (Washington and Lee University) Invited*|
 | 3:30   | **Industry Talk:** *Luis Barroso-Luque (Meta) – Invited* |
 | 4:00   | **Closing Remarks** – End of Workshop |
 
