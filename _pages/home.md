@@ -25,7 +25,6 @@ feature_row:
     excerpt: "Get hands-on experience with robotic synthesis!"
     url: /schedule/#day-1-molecular-foundry-summer-school-only
 
-
   - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
     # title: "Day 2"
     btn_label: "Day 2"
@@ -119,9 +118,9 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 <!-- ## "Readings from our Hosts"
 #  'Learn more through some of the publications from our host!' -->
 
-{% include feature_row id="feature_row5" type="center" %} 
+{% include feature_row id="feature_row5" } 
 
-{% include feature_row id="feature_hosts" type="center" %} 
+{% include feature_row id="feature_hosts"} 
 
 <!-- {% include feature_row id="feature_row4" type="center" %}  -->
 <div style="display: flex; justify-content: center; gap: 20px;">
