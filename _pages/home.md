@@ -16,7 +16,7 @@ excerpt: "Robotic Synthesis Coupled with Machine Learning for Energy Materials."
 intro: 
   - title: 'Join us at the Lawrence Berkeley National Lab, CA, from August 13-15 for activities and workshops for applying machine learning to material science'
 
-feature_row:
+feature_schedule:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
     # title: "Day 1"
     # excerpt: "Get hands on experience with robotic synthesis!"
@@ -96,7 +96,7 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 <br/>
 
 ## Schedule
-{% include feature_row %}
+{% include feature_row id = "feature_schedule"%}
 
 ## Who is eligible to register for the summer course?
 - Those registered for the 2025 Molecular Foundary Annual Meeting.
@@ -118,9 +118,9 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 <!-- ## "Readings from our Hosts"
 #  'Learn more through some of the publications from our host!' -->
 
-{% include feature_row id="feature_row5" } 
+{% include feature_row id="feature_row5" %} 
 
-{% include feature_row id="feature_hosts"} 
+{% include feature_row id="feature_hosts" %} 
 
 <!-- {% include feature_row id="feature_row4" type="center" %}  -->
 <div style="display: flex; justify-content: center; gap: 20px;">
