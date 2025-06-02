@@ -1,60 +1,10 @@
-/* Style the feature rows */
-.feature-row {
-  margin: 50px 0;
-  padding: 20px;
+/* Force feature_row to 5 columns */
+.feature__wrapper {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 2rem;
 }
 
-.feature_row1 img {
-  width: 100%;
-  max-width: 600px; /* Set the max-width as per your requirement */
-  height: auto;
+.feature__item {
+  width: 100% !important;
 }
-
-
-.feature-row .feature-content {
-  text-align: center;
-}
-
-.feature-row h2 {
-  font-size: 1.8rem;
-  color: #333;
-}
-
-.feature-row p {
-  font-size: 1rem;
-  color: #555;
-}
-
-.feature-row .btn--primary {
-  background-color: #007acc;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 5px;
-  text-decoration: none;
-}
-
-.custom-section {
-  background-color: #f0f8ff;
-  color: #333;
-  padding: 1em;
-  border-radius: 8px;
-}
-
-.colored-section {
-  background-color: #333; /* Change this to the color you prefer */
-  color: white;           /* Adjust the text color to ensure readability */
-  padding: 50px;          /* Optional: add some padding for spacing */
-}
-
-/* Additional styling for heading and paragraph */
-.colored-section h2 {
-  font-size: 2rem;
-}
-
-.colored-section p {
-  font-size: 1.2rem;
-}
-
-
-
-
