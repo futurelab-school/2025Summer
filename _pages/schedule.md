@@ -69,7 +69,7 @@ layout: single
 | 2:00   | **Academic Talk:** *Dr. Maria Chan (Argonne National Laboratory) – Invited* |
 | 2:30   | Break |
 | 3:00   | **Contributed Talk:** *Ansuman Halder – AutoBot* |
-| 3:15   | **Contributed Talk:** *ALD Bot* |
-| 3:30   | **Industry Talk:** *Dr. Luis Barroso-Luque (Meta) – Invited* |
+| 3:15   | **Contributed Talk:** *Mengying Liu - Invited*|
+| 3:30   | **Industry Talk:** *Luis Barroso-Luque (Meta) – Invited* |
 | 4:00   | **Closing Remarks** – End of Workshop |
 
