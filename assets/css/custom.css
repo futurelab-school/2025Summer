@@ -1,10 +1,10 @@
-/* Force feature_row to 5 columns */
 .feature__wrapper {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -1em;
 }
-
 .feature__item {
-  width: 100% !important;
+  flex: 1 0 33%; /* 3 per row */
+  max-width: 33%;
+  padding: 0 1em;
 }
