@@ -118,9 +118,23 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 <!-- ## "Readings from our Hosts"
 #  'Learn more through some of the publications from our host!' -->
 
-{% include gallery id="feature_row5" %} 
+<section id="team">
+  <h2>Meet the Team</h2>
+  <div class="team-grid">
+    <div class="team-member">
+      <img src="/assets/images/team/shijing_sun.jpg" alt="Shijing Sun" width="150">
+      <h3>"Shijing Sun</h3>
+      <p>Host</p>
+    </div>
+    <div class="team-member">
+      <img src="/assets/images/carolin_sutterfella.jpg" alt="Carolin Sutterfella" width="150">
+      <h3>Carolin Sutter-fella</h3>
+      <p>Host</p>
+    </div>
+    <!-- Add more members here -->
+  </div>
+</section>
 
-{% include gallery id="feature_hosts" %} 
 
 <!-- {% include feature_row id="feature_row4" type="center" %}  -->
 <div style="display: flex; justify-content: center; gap: 20px;">
