@@ -120,7 +120,7 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 
 {% include feature_row id = "feature_row5" %}
 
-{% include feature_row id = "feature_host" %}
+{% include feature_row id = "feature_hosts" %}
 
 <!-- {% include feature_row id="feature_row4" type="center" %}  -->
 <div style="display: flex; justify-content: center; gap: 20px;">
