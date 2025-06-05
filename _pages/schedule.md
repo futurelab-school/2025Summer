@@ -45,9 +45,8 @@ layout: single
 
 | Time   | Activity |
 |--------|----------|
-| 1:00   | **Machine Learning Overview** |
-| 1:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* |
-| 2:00   | •Building a Gaussian Process Model with Your Data** *(Maher Alghalayini)* |
+| 1:00   | **Getting Started with Machine Learning** <br>•Overview of Machine Learning: Key concepts and types of learning |
+| 1:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* <br>•Introduction to Gaussian processes <br>• Practical code implementation of Gaussian processes |
 | 2:30   | Break |
 | 3:00   | **Bayesian Optimization and Active Learnign** *(Clara Tamura)* <br>• Color mixing game <br>• How does BO work <br>• Build your own BO |
 | 4:55   | Wrap Up Day 2
@@ -69,7 +68,7 @@ layout: single
 | 2:00   | **Academic Talk:** *Dr. Maria Chan (Argonne National Laboratory) – Invited* |
 | 2:30   | Break |
 | 3:00   | **Contributed Talk:** *Ansuman Halder – AutoBot* |
-| 3:15   | **Contributed Talk:** *Mengying Liu - (Washington and Lee University) Invited*|
+| 3:15   | **Contributed Talk:** *Mengying Liu - (Washington and Lee University)*|
 | 3:30   | **Industry Talk:** *Luis Barroso-Luque (Meta) – Invited* |
 | 4:00   | **Closing Remarks** – End of Workshop |
 
