@@ -60,28 +60,28 @@ portrait_2:
      excerpt: "Dr. Maher Alghalayini | Molecular Foundry, Postdoc"
    - image_path: /assets/images/shuan_cheng.png
      caption: "Workshop Lead"
-     excerpt: "Shuan Cheng | Univeristy of Washington, PhD Student"
+     excerpt: "Shuan Cheng Univeristy of Washington, PhD Student"
    - image_path: /assets/images/ansuman_halder.png
      caption: "Workshop Lead"
-     excerpt: "Ansuman_halder| Molecular Foundry, Postdoc"
+     excerpt: "Ansuman_halder Molecular Foundry, Postdoc"
    - image_path: /assets/images/clara_tamura.png
      caption: "Workshop Lead"
-     excerpt: "Clara Tamura | Univeristy of Washington, PhD Student" 
+     excerpt: "Clara Tamura  Univeristy of Washington, PhD Student" 
    - image_path: /assets/images/abby_hering.png
-     caption: ""
-     excerpt: "Abby Hering | UC Davis, PhD Student" 
+     caption: "Workshop"
+     excerpt: "Abby Hering  UC Davis, PhD Student" 
    - image_path: assets/images/rapha_moral.png
-     caption: ""
-     excerpt: "Rapha Moral |  Molecular Foundry, Postdoc" 
+     caption: "Workshop"
+     excerpt: "Rapha Moral   Molecular Foundry, Postdoc" 
    - image_path: assets/images/yiru_liu.png
-     caption: ""
-     excerpt: "Yi-Ru Liu |  Molecular Foundry, Phd Student" 
+     caption: "Workshop"
+     excerpt: "Yi-Ru Liu   Molecular Foundry, Phd Student" 
    - image_path: assets/images/thong_nguyen.png
      caption: "Teaching Assistant"
      excerpt: "Thong Nguyen | University of Washington, Undergraduate Student" 
    - image_path: assets/images/ed_bernard.png
-     caption: ""
-     excerpt: "Ed Bernard |  Molecular Foundry, Staff Scientist" 
+     caption: "Workshop"
+     excerpt: "Ed Bernard   Molecular Foundry, Staff Scientist" 
 
 
 feature_row4:
