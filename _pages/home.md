@@ -66,22 +66,22 @@ portrait_2:
      excerpt: "Ansuman_halder Molecular Foundry, Postdoc"
    - image_path: /assets/images/clara_tamura.png
      caption: "Workshop Lead"
-     excerpt: "Clara Tamura  Univeristy of Washington, PhD Student" 
+     excerpt: "Clara Tamura Univeristy of Washington, PhD Student" 
    - image_path: /assets/images/abby_hering.png
      caption: "Workshop"
-     excerpt: "Abby Hering  UC Davis, PhD Student" 
+     excerpt: "Abby Hering UC Davis, PhD Student" 
    - image_path: assets/images/rapha_moral.png
      caption: "Workshop"
-     excerpt: "Rapha Moral   Molecular Foundry, Postdoc" 
+     excerpt: "Rapha Moral Molecular Foundry, Postdoc" 
    - image_path: assets/images/yiru_liu.png
      caption: "Workshop"
-     excerpt: "Yi-Ru Liu   Molecular Foundry, Phd Student" 
+     excerpt: "Yi-Ru Liu Molecular Foundry, Phd Student" 
    - image_path: assets/images/thong_nguyen.png
      caption: "Teaching Assistant"
      excerpt: "Thong Nguyen | University of Washington, Undergraduate Student" 
    - image_path: assets/images/ed_bernard.png
      caption: "Workshop"
-     excerpt: "Ed Bernard   Molecular Foundry, Staff Scientist" 
+     excerpt: "Ed Bernard Molecular Foundry, Staff Scientist" 
 
 
 feature_row4:
@@ -144,7 +144,6 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
     <link rel="stylesheet" href="{{ stylesheet | relative_url }}">
   {% endfor %}
 {% endif %}
-
 
 
 <!-- 
