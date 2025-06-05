@@ -1,59 +1,41 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# ---------------------------------
+# Site Information
+# ---------------------------------
 title: "2025 ML Summer School"
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >
+  Website for the 2025 Future Labs Summer School on machine learning and automation.
 twitter_username: uwsunlab
 github_username: uwsunlab
-minimal_mistakes_skin: "default"  # or whichever skin you're using
+logo: "/assets/images/uwsunlab_logo.png"
+minimal_mistakes_skin: "default"
+locale: "en-US"
+title_separator: "-"
+url: "https://futurelab-school.github.io"
+baseurl: "/2025Summer"
+repository: "2025Summer"
 
-search: true
-locale                   : "en-US"
-title_separator          : "-"
-url                      : https://futurelab-school.github.io/
-baseurl                  : "/2025Summer" # the subpath of your site, e.g. "/blog"
-repository               : "2025Summer" # GitHub repository to help with editing content
-logo                     : "/assets/images/uwsunlab_logo.png"
-
-
-# Build settings
+# ---------------------------------
+# Build Settings
+# ---------------------------------
 markdown: kramdown
 kramdown:
   input: GFM
-# remote_theme: "mmistakes/minimal-mistakes"
-# theme: minimal-mistakes-jekyll
-theme: null
 
-
-# Outputting
-permalink:  /:categories/:title/
-# paginate: 10  #  amount of posts to show
-paginate_path: /_pages/page:num
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+theme: null  # using local override of Minimal Mistakes
 
 include:
   - _pages
   - assets/images
 
+# ---------------------------------
+# Custom Styling
+# ---------------------------------
 custom_css:
   - /assets/css/custom.css
 
+# ---------------------------------
+# Plugins
+# ---------------------------------
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -63,6 +45,17 @@ plugins:
   - jekyll-include-cache
   - jekyll-redirect-from
 
+# ---------------------------------
+# Permalinks & Pagination
+# ---------------------------------
+permalink: /:categories/:title/
+paginate_path: /_pages/page:num
+# paginate: 10  # Uncomment if pagination is needed
+timezone:  # e.g., "America/Los_Angeles"
+
+# ---------------------------------
+# Author Information
+# ---------------------------------
 author:
   name   : "Univ. Wash"
   avatar : "/assets/images/bio-photo.jpg"
@@ -81,6 +74,9 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# ---------------------------------
+# Footer Links
+# ---------------------------------
 footer:
   links:
     - label: "Twitter"
@@ -93,6 +89,9 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# ---------------------------------
+# Defaults
+# ---------------------------------
 defaults:
   - scope:
       path: ""
@@ -101,6 +100,9 @@ defaults:
       layout: single
       author_profile: false
 
+# ---------------------------------
+# Archives
+# ---------------------------------
 category_archive:
   type: liquid
   path: /categories/
@@ -108,11 +110,10 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# ---------------------------------
 # HTML Compression
-# - https://jch.penibelst.de/
+# ---------------------------------
 compress_html:
   clippings: all
   ignore:
     envs: development
-
-
