@@ -47,35 +47,41 @@ feature_row3:
 portrait_1:
   - title: "Meet our Hosts"
     excerpt: "Meet our hosts, workshop leader and teaching assistants: "
-  - image_path: /assets/images/shijing_sun.jpg
+  - image_path: /assets/images/shijing_sun.png
     caption: "Host"
-    excerpt: "Dr. Shijing Sun, Univeristy of Washington"
+    excerpt: "Dr. Shijing Sun | Univeristy of Washington, Professor"
   - image_path: /assets/images/carolin_sutterfella.png
     caption: "Host"
-    excerpt: "Dr. Carolin M. Sutter-Fella, Molecular Foundry"
+    excerpt: "Dr. Carolin M. Sutter-Fella | Molecular Foundry, Staff Scientist" 
 
 portrait_2: 
-   - image_path: assets/images/maher_alghalayini_1.jpg
+   - image_path: assets/images/maher_alghalayini.png
      caption: "Workshop Lead"
-     excerpt: "Dr. Maher Alghalayini, Molecular Foundry"
-   - image_path: /assets/images/shuan_cheng.jpg
+     excerpt: "Dr. Maher Alghalayini | Molecular Foundry, Postdoc"
+   - image_path: /assets/images/shuan_cheng.png
      caption: "Workshop Lead"
-     excerpt: "Shuan Cheng, Univeristy of Washington"
-   - image_path: /assets/images/ansuman_halder.jpg
+     excerpt: "Shuan Cheng | Univeristy of Washington, PhD Student"
+   - image_path: /assets/images/ansuman_halder.png
      caption: "Workshop Lead"
-     excerpt: "Ansuman_halder, Molecular Foundry"
-   - image_path: /assets/images/clara_tamura.jpg
+     excerpt: "Ansuman_halder| Molecular Foundry, Postdoc"
+   - image_path: /assets/images/clara_tamura.png
      caption: "Workshop Lead"
-     excerpt: "Clara Tamura, Univeristy of Washington" 
-   - image_path: /assets/images/abby_hering.jpg
-     caption: "Workshop Lead"
-     excerpt: "Abby Hering, UC Davis" 
+     excerpt: "Clara Tamura | Univeristy of Washington, PhD Student" 
+   - image_path: /assets/images/abby_hering.png
+     caption: ""
+     excerpt: "Abby Hering | UC Davis, PhD Student" 
    - image_path: assets/images/rapha_moral.png
-     caption: "Workshop Lead"
-     excerpt: "Rapha Moral,  Molecular Foundry" 
-   - image_path: assets/images/yiru_liu.jpg
-   - image_path: assets/images/thong_nguyen.jpg
-
+     caption: ""
+     excerpt: "Rapha Moral |  Molecular Foundry, Postdoc" 
+   - image_path: assets/images/yiru_liu.png
+     caption: ""
+     excerpt: "Yi-Ru Liu |  Molecular Foundry, Phd Student" 
+   - image_path: assets/images/thong_nguyen.png
+     caption: "Teaching Assistant"
+     excerpt: "Thong Nguyen | University of Washington, Undergraduate Student" 
+   - image_path: assets/images/ed_bernard.png
+     caption: ""
+     excerpt: "Ed Bernard |  Molecular Foundry, Staff Scientist" 
 
 
 feature_row4:
@@ -122,7 +128,7 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 <!-- ## "Readings from our Hosts"
 #  'Learn more through some of the publications from our host!' -->
 
-{% include portrait_row id = "portrait_1" %}
+{% include portrait_row id = "portrait_1"  type = "center" %}
 
 {% include portrait_row id = "portrait_2" %}
 
