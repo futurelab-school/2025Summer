@@ -50,12 +50,12 @@ portrait_1:
   - image_path: /assets/images/shijing_sun.jpg
     caption: "Host"
     excerpt: "Dr. Shijing Sun, Univeristy of Washington"
-  - image_path: /assets/images/carolin_sutterfella.jpg
+  - image_path: /assets/images/carolin_sutterfella.png
     caption: "Host"
     excerpt: "Dr. Carolin M. Sutter-Fella, Molecular Foundry"
 
 portrait_2: 
-   - image_path: /assets/images/maher_alghalayini_1.jpg
+   - image_path: assets/images/maher_alghalayini_1.jpg
      caption: "Workshop Lead"
      excerpt: "Dr. Maher Alghalayini, Molecular Foundry"
    - image_path: /assets/images/shuan_cheng.jpg
@@ -73,6 +73,9 @@ portrait_2:
    - image_path: assets/images/rapha_moral.png
      caption: "Workshop Lead"
      excerpt: "Rapha Moral,  Molecular Foundry" 
+   - image_path: assets/images/yiru_liu.jpg
+   - image_path: assets/images/thong_nguyen.jpg
+
 
 
 feature_row4:
