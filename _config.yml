@@ -21,8 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: uwsunlab
 github_username: uwsunlab
 minimal_mistakes_skin: "default"  # or whichever skin you're using
-custom_css:
-  - /assets/css/custom.css
 
 search: true
 locale                   : "en-US"
@@ -32,8 +30,6 @@ baseurl                  : "/2025Summer" # the subpath of your site, e.g. "/blog
 repository               : "2025Summer" # GitHub repository to help with editing content
 logo                     : "/assets/images/uwsunlab_logo.png"
 
-head:
-  - <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
 
 # Build settings
 markdown: kramdown
@@ -104,7 +100,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-      css: "assets/css/custom.css"
 
 category_archive:
   type: liquid
