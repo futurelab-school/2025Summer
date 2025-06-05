@@ -55,13 +55,13 @@ portrait_1:
     excerpt: "Dr. Carolin M. Sutter-Fella | Molecular Foundry, Staff Scientist" 
 
 portrait_2: 
-   - image_path: assets/images/maher_alghalayini.png
+   - image_path: assets/images/maher.png
      caption: "Workshop Lead"
      excerpt: "Dr. Maher Alghalayini | Molecular Foundry, Postdoc"
    - image_path: /assets/images/shuan_cheng.png
      caption: "Workshop Lead"
      excerpt: "Shuan Cheng Univeristy of Washington, PhD Student"
-   - image_path: /assets/images/ansuman_halder.png
+   - image_path: /assets/images/ansuman.png
      caption: "Workshop Lead"
      excerpt: "Ansuman_halder Molecular Foundry, Postdoc"
    - image_path: /assets/images/clara_tamura.png
