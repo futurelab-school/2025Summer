@@ -1,13 +1,12 @@
-.feature__wrapper {
-  display: grid !important;
-  grid-template-columns: repeat(5, 1fr) !important;
-  gap: 2rem !important;
-  margin: 0 !important;
+.portrait__wrapper {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 equal columns */
+  gap: 1rem; /* space between items */
+  margin: 2rem 0;
 }
 
-.feature__item {
-  width: 100% !important;
-  flex: none !important;
-  max-width: 100% !important;
-  padding: 0 !important;
+.portrait__item {
+  background: white; /* or whatever fits your design */
+  padding: 0.5rem;
+  text-align: center;
 }

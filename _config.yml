@@ -39,8 +39,9 @@ head:
 markdown: kramdown
 kramdown:
   input: GFM
-remote_theme: "mmistakes/minimal-mistakes"
+# remote_theme: "mmistakes/minimal-mistakes"
 # theme: minimal-mistakes-jekyll
+theme: null
 
 
 # Outputting
@@ -53,7 +54,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
   - assets/images
-  - assets/css/custom.css
+
+custom_css:
+  - /assets/css/custom.css
 
 plugins:
   - jekyll-paginate

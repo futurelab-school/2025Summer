@@ -44,7 +44,7 @@ feature_row3:
     btn_label: "Register"
     btn_class: "btn--primary"
 
-feature_row5:
+portrait_1:
   - title: "Meet our Hosts"
     excerpt: "Meet our hosts, workshop leader and teaching assistants: "
   - image_path: /assets/images/shijing_sun.jpg
@@ -54,8 +54,8 @@ feature_row5:
     caption: "Host"
     excerpt: "Dr. Carolin M. Sutter-Fella, Molecular Foundry"
 
-feature_hosts: 
-   - image_path: /assets/images/maher_alghalayini.jpg
+portrait_2: 
+   - image_path: /assets/images/maher_alghalayini_1.jpg
      caption: "Workshop Lead"
      excerpt: "Dr. Maher Alghalayini, Molecular Foundry"
    - image_path: /assets/images/shuan_cheng.jpg
@@ -73,6 +73,7 @@ feature_hosts:
    - image_path: assets/images/rapha_moral.png
      caption: "Workshop Lead"
      excerpt: "Rapha Moral,  Molecular Foundry" 
+
 
 feature_row4:
   - # image_path: /assets/images/lawrence.png
@@ -118,9 +119,9 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 <!-- ## "Readings from our Hosts"
 #  'Learn more through some of the publications from our host!' -->
 
-{% include feature_row id = "feature_row5" %}
+{% include portrait_row id = "portrait_1" %}
 
-{% include feature_row id = "feature_hosts" %}
+{% include portrait_row id = "portrait_2" %}
 
 <!-- {% include feature_row id="feature_row4" type="center" %}  -->
 <div style="display: flex; justify-content: center; gap: 20px;">
