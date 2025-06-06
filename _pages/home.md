@@ -69,7 +69,7 @@ portrait_experiment:
      name: "Rapha Moral"
      affiliation: "Molecular Foundry" 
      excerpt: "Postdoc"
-   - image_path: assets/images/yiru_liu.png
+   - image_path: assets/images/yiru_liu.jpeg
      name: "Yi-Ru Liu"
      affiliation: "Molecular Foundry" 
      excerpt: "PhD Student"
