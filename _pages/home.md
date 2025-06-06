@@ -45,7 +45,7 @@ feature_row3:
 
 portrait_1:
   - title: ""
-  - image_path: /assets/images/shijing_sun.png
+  - image_path: /assets/images/shijing-sun.jpeg
     name: "Shijing Sun"
     affiliation: "Univeristy of Washington"
     excerpt: "Assistant Professor"
@@ -73,7 +73,7 @@ portrait_experiment:
      name: "Yi-Ru Liu"
      affiliation: "Molecular Foundry" 
      excerpt: "PhD Student"
-   - image_path: assets/images/ed_bernard.png
+   - image_path: assets/images/ed_bernard.jpg
      name: "Ed Bernard"
      affiliation: "Molecular Foundry" 
      excerpt: "Staff Scientist"
@@ -87,7 +87,7 @@ portrait_data:
      name: "Shuan Cheng"
      affiliation: "Univeristy of Washington" 
      excerpt: "PhD Student"
-   - image_path: /assets/images/clara_tamura.png
+   - image_path: /assets/images/clara_tamura.jpg
      name: "Clara Tamura"
      affiliation: "Univeristy of Washington"
      excerpt: "PhD Student"
