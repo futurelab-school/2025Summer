@@ -71,16 +71,17 @@ portrait_experiment:
 
 portrait_data: 
    - image_path: assets/images/maher.png
-     excerpt: "Maher Alghalayini"
-     excerpt: "Molecular Foundry | Postdoc"
+     name: "Maher Alghalayini"
+     affiliation: "Molecular Foundry | Postdoc"
    - image_path: /assets/images/shuan_cheng.png
-     excerpt: "Shuan Cheng"
+     name: "Shuan Cheng"
      excerpt: " Univeristy of Washington | PhD Student"
    - image_path: /assets/images/clara_tamura.png
-     excerpt: "Clara Tamura"
+     name: "Clara Tamura"
      excerpt: "Univeristy of Washington | PhD Student"
-   - image_path: assets/images/thong_nguyen.png
-     excerpt: "Thong Nguyen | University of Washington | Undergraduate Student" 
+   - image_path: /assets/images/thong_nguyen.png
+     name : "Thong Nguyen 
+     affiliation: " University of Washington | Undergraduate Student" 
 
 feature_row4:
   - # image_path: /assets/images/lawrence.png
