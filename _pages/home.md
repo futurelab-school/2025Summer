@@ -80,8 +80,8 @@ portrait_data:
      name: "Clara Tamura"
      excerpt: "Univeristy of Washington, PhD Student"
    - image_path: /assets/images/thong_nguyen.png
-     name : "Thong Nguyen 
-     affiliation: " University of Washington, Undergraduate Student" 
+     name : "Thong Nguyen" 
+     affiliation: "University of Washington, Undergraduate Student" 
 
 feature_row4:
   - # image_path: /assets/images/lawrence.png
@@ -142,15 +142,12 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 </div>
 <!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
-{% for stylesheet in page.page_css %}
-<link rel="stylesheet" href="{{ stylesheet | relative_url }}" />
-{% endfor %}
 
-<!-- {% if page.page_css %}
+{% if page.page_css %}
   {% for stylesheet in page.page_css  type = "center" %}
     <link rel="stylesheet" href="{{ stylesheet, relative_url }}">
   {% endfor %}
-{% endif %} -->
+{% endif %}
 
 
 <!-- 
