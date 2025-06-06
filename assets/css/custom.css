@@ -14,21 +14,38 @@
   margin: 2rem auto;
   text-align: center;
 } */
+/* .portrait__wrapper {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1rem;
+  max-width: 100%;              
+  margin: 2rem 0;          
+  text-align: center;
+  justify-content: center;
+} */
 
 .portrait__wrapper {
   display: grid;
-  grid-template-columns: repeat(5, 1fr); /* or auto-fit/minmax for responsive */
+  grid-template-columns: repeat(auto-fit, minmax(200px, auto)); /* 200px image blocks */
   gap: 1rem;
-  max-width: 100%;              /* never exceed parent */
-  margin: 2rem 0;            /* center horizontally */
+  justify-content: center;       /* this keeps the grid centered */
+  width: 100%;
+  margin: 2rem auto;
   text-align: center;
-  justify-content: center;
 }
 
 .portrait__item {
   background: white; /* or whatever fits your design */
   padding: 0.5rem;
   text-align: center;
+}
+
+.portrait__item img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 .archive__item-affilation {
