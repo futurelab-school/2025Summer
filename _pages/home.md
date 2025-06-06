@@ -45,30 +45,29 @@ feature_row3:
 
 portrait_1:
   - title: "Meet our Hosts"
-    excerpt: "Meet our hosts, workshop leader and teaching assistants: "
   - image_path: /assets/images/shijing_sun.png
-    excerpt: "Shijing Sun"
-    excerpt: "Univeristy of Washington, Professor"
+    name: "Shijing Sun"
+    affiliation: "Univeristy of Washington, Assistant Professor"
   - image_path: /assets/images/carolin_sutterfella.png
-    excerpt: "Carolin M. Sutter-Fella "
-    excerpt: " Molecular Foundry, Staff Scientist" 
+    name: "Carolin M. Sutter-Fella "
+    affiliation: " Molecular Foundry, Staff Scientist" 
 
 portrait_experiment:  
    - image_path: /assets/images/ansuman.png
-     excerpt: "Ansuman Halder"
-     excerpt: " Molecular Foundry | Postdoc"
+     name: "Ansuman Halder"
+     affiliation: " Molecular Foundry,  Postdoc"
    - image_path: /assets/images/abby_hering.png
-     excerpt: "Abby Hering"
-     excerpt: "UC Davis | PhD Student" 
+     name: "Abby Hering"
+     affiliation: "UC Davis | PhD Student" 
    - image_path: assets/images/rapha_moral.png
-     excerpt: "Rapha Moral"
-     excerpt: "Molecular Foundry | Postdoc" 
+     name: "Rapha Moral"
+     affiliationt: "Molecular Foundry | Postdoc" 
    - image_path: assets/images/yiru_liu.png
-     excerpt: "Yi-Ru Liu"
-     excerpt: "Molecular Foundry | Phd Student" 
+     name: "Yi-Ru Liu"
+     affiliation: "Molecular Foundry | Phd Student" 
    - image_path: assets/images/ed_bernard.png
-     excerpt: "Ed Bernard"
-     excerpt: "Molecular Foundry | Staff Scientist" 
+     name: "Ed Bernard"
+     affiliation: "Molecular Foundry | Staff Scientist" 
 
 portrait_data: 
    - image_path: assets/images/maher.png
