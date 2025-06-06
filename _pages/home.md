@@ -45,13 +45,14 @@ feature_row3:
 
 portrait_1:
   - title: ""
-  - title: ""
   - image_path: /assets/images/shijing_sun.png
     name: "Shijing Sun"
     affiliation: "Univeristy of Washington, Assistant Professor"
+  - title: ""
   - image_path: /assets/images/carolin_sutterfella.png
     name: "Carolin M. Sutter-Fella "
     affiliation: " Molecular Foundry, Staff Scientist" 
+  - title: ""
 
 portrait_experiment:  
    - image_path: /assets/images/ansuman.png
