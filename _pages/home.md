@@ -127,7 +127,7 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 <!-- ## "Readings from our Hosts"
 #  'Learn more through some of the publications from our host!' -->
 # Meet our Organizers
-{% include portrait_row id = "portrait_1"  type = "center" %}
+{% include portrait_row id = "portrait_1"  %}
 
 # Experimental Instructors
 {% include portrait_row id = "portrait_experiment" %}

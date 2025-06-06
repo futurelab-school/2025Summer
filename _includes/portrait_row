@@ -7,7 +7,7 @@
 <div class="portrait__wrapper">
 
   {% for f in portrait_row %}
-    <div class="portrait__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="portrait__item">
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
