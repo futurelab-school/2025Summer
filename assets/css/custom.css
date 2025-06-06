@@ -22,8 +22,15 @@
   margin: 0 auto;
 }
 
+.archive__item-name {
+  font-size: 1.20rem; 
+  margin-top: 0.5rem;
+  text-align: center;
+  font-weight: bold;
+}
+
 .archive__item-affilation {
-  font-size: 0.30rem;       /* adjust size */
+  font-size: 0.90rem;       /* adjust size */
   font-weight: 300;         /* regular weight */
   color: #444;              /* soft black */
   text-align: center;
@@ -31,12 +38,7 @@
   line-height: 1.4;
 }
 
-.archive__item-name {
-  font-size: 1.20rem; 
-  margin-top: 0.5rem;
-  text-align: center;
-  font-weight: bold;
-}
+
 
 
 
