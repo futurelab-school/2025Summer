@@ -12,11 +12,8 @@
   grid-template-columns: repeat(5, 1fr); /* or auto-fit/minmax for responsive */
   gap: 1rem;
   max-width: 100%;              /* never exceed parent */
-  width: 1000px;                /* or whatever fits your layout (e.g., 960px, 1200px) */
   margin: 2rem 0;            /* center horizontally */
   text-align: center;
-  box-sizing: border-box;
-  padding: 0 1rem;              /* optional: side padding for smaller screens */
 }
 
 
