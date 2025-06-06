@@ -18,7 +18,6 @@
   width: 100%;
   max-width: 200px;
   height: auto;
-  max-height: 300px; /* limit height */
   display: block;
   margin: 0 auto;
 }
