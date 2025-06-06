@@ -6,17 +6,6 @@
   justify-content: center;
   text-align: center;
 } */
-
-.portrait__wrapper {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr); /* or auto-fit/minmax for responsive */
-  gap: 1rem;
-  max-width: 100%;              /* never exceed parent */
-  margin: 2rem 0;            /* center horizontally */
-  text-align: center;
-}
-
-
 /* .portrait__wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -25,6 +14,16 @@
   margin: 2rem auto;
   text-align: center;
 } */
+
+.portrait__wrapper {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* or auto-fit/minmax for responsive */
+  gap: 1rem;
+  max-width: 100%;              /* never exceed parent */
+  margin: 2rem 0;            /* center horizontally */
+  text-align: center;
+  justify-content: center;
+}
 
 .portrait__item {
   background: white; /* or whatever fits your design */
