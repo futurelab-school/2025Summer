@@ -3,13 +3,13 @@
   grid-template-columns: repeat(5, 1fr); /* 5 equal columns */
   gap: 1rem; /* space between items */
   margin: 2rem 0;
+  justify-content: center;
+  text-align: center;
 }
 
 .portrait__item {
   background: white; /* or whatever fits your design */
   padding: 0.5rem;
-  text-align: center;
-  justify-content: center;
   text-align: center;
 }
 
