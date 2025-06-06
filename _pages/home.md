@@ -44,7 +44,8 @@ feature_row3:
     btn_class: "btn--primary"
 
 portrait_1:
-  - title: "Meet our Hosts"
+  - title: ""
+  - title: ""
   - image_path: /assets/images/shijing_sun.png
     name: "Shijing Sun"
     affiliation: "Univeristy of Washington, Assistant Professor"
