@@ -15,7 +15,7 @@
 }
 
 .portrait__item img {
-  width: 100%;
+  width: auto;
   max-width: 200px;
   height: auto;
   max-height: 300px; /* limit height */
