@@ -19,7 +19,6 @@ intro:
 feature_schedule:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
     # title: "Day 1"
-    # excerpt: "Get hands on experience with robotic synthesis!"
     btn_label: "Day 1"
     btn_class: "btn--primary"
     excerpt: "Get hands-on experience with robotic synthesis!"
@@ -48,40 +47,40 @@ portrait_1:
   - title: "Meet our Hosts"
     excerpt: "Meet our hosts, workshop leader and teaching assistants: "
   - image_path: /assets/images/shijing_sun.png
-    caption: "Host"
-    excerpt: "Dr. Shijing Sun | Univeristy of Washington, Professor"
+    excerpt: "Shijing Sun"
+    excerpt: "Univeristy of Washington, Professor"
   - image_path: /assets/images/carolin_sutterfella.png
-    caption: "Host"
-    excerpt: "Dr. Carolin M. Sutter-Fella | Molecular Foundry, Staff Scientist" 
+    excerpt: "Carolin M. Sutter-Fella "
+    excerpt: " Molecular Foundry, Staff Scientist" 
 
 portrait_2: 
    - image_path: assets/images/maher.png
-     caption: "Workshop Lead"
-     excerpt: "Dr. Maher Alghalayini | Molecular Foundry, Postdoc"
+     excerpt: "Maher Alghalayini"
+     excerpt: "Molecular Foundry | Postdoc"
    - image_path: /assets/images/shuan_cheng.png
-     caption: "Workshop Lead"
-     excerpt: "Shuan Cheng Univeristy of Washington, PhD Student"
+     excerpt: "Shuan Cheng"
+     excerpt: " Univeristy of Washington | PhD Student"
    - image_path: /assets/images/ansuman.png
-     caption: "Workshop Lead"
-     excerpt: "Ansuman_halder Molecular Foundry, Postdoc"
+     excerpt: "Ansuman Halder"
+     excerpt: " Molecular Foundry | Postdoc"
    - image_path: /assets/images/clara_tamura.png
-     caption: "Workshop Lead"
-     excerpt: "Clara Tamura Univeristy of Washington, PhD Student" 
+     excerpt: "Clara Tamura"
+     excerpt: "Univeristy of Washington | PhD Student" 
    - image_path: /assets/images/abby_hering.png
-     caption: "Workshop"
-     excerpt: "Abby Hering UC Davis, PhD Student" 
+     excerpt: "Abby Hering"
+     excerpt: "UC Davis | PhD Student" 
    - image_path: assets/images/rapha_moral.png
-     caption: "Workshop"
-     excerpt: "Rapha Moral Molecular Foundry, Postdoc" 
+     excerpt: "Rapha Moral"
+     excerpt: "Molecular Foundry | Postdoc" 
    - image_path: assets/images/yiru_liu.png
-     caption: "Workshop"
-     excerpt: "Yi-Ru Liu Molecular Foundry, Phd Student" 
+     excerpt: "Yi-Ru Liu"
+     excerpt: "Molecular Foundry | Phd Student" 
    - image_path: assets/images/thong_nguyen.png
-     caption: "Teaching Assistant"
-     excerpt: "Thong Nguyen | University of Washington, Undergraduate Student" 
+     excerpt: "Thong Nguyen "
+     excerpt: "University of Washington | Undergraduate Student" 
    - image_path: assets/images/ed_bernard.png
-     caption: "Workshop"
-     excerpt: "Ed Bernard Molecular Foundry, Staff Scientist" 
+     excerpt: "Ed Bernard"
+     excerpt: "Molecular Foundry | Staff Scientist" 
 
 
 feature_row4:
@@ -115,9 +114,9 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 All coding activities will have ChatGPT-assisted coding, so no Python or coding mastery is required.
 
 ## Invited Speakers
-- Dr. Maria Chan [Argonne National Laboratory ]
-- Dr. Amalie Trewartha [Toyota Research Institute]
-- Dr. Luis Barroso-Luque [Meta]
+- Maria Chan [Argonne National Laboratory ]
+- Amalie Trewartha [Toyota Research Institute]
+- Luis Barroso-Luque [Meta]
   
 * Speaker list to be updated
 
