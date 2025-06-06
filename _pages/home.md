@@ -58,7 +58,7 @@ portrait_experiment:
    - image_path: /assets/images/ansuman.png
      name: "Ansuman Halder"
      affiliation: " Molecular Foundry"
-     excertp: "Postdoc"
+     excerpt: "Postdoc"
    - image_path: /assets/images/abby_hering.png
      name: "Abby Hering"
      affiliation: "UC Davis" 
@@ -80,7 +80,7 @@ portrait_data:
    - image_path: assets/images/maher.png
      name: "Maher Alghalayini"
      affiliation: "Molecular Foundry"
-     excerpt: "Postdoc
+     excerpt: "Postdoc"
    - image_path: /assets/images/shuan_cheng.png
      name: "Shuan Cheng"
      affiliation: " Univeristy of Washington, 
