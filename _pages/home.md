@@ -81,8 +81,7 @@ portrait_data:
      excerpt: "Clara Tamura"
      excerpt: "Univeristy of Washington | PhD Student"
    - image_path: assets/images/thong_nguyen.png
-     excerpt: "Thong Nguyen "
-     excerpt: "University of Washington | Undergraduate Student" 
+     excerpt: "Thong Nguyen | University of Washington | Undergraduate Student" 
 
 feature_row4:
   - # image_path: /assets/images/lawrence.png
