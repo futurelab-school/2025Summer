@@ -57,33 +57,42 @@ portrait_1:
 portrait_experiment:  
    - image_path: /assets/images/ansuman.png
      name: "Ansuman Halder"
-     affiliation: " Molecular Foundry,  Postdoc"
+     affiliation: " Molecular Foundry"
+     excertp: "Postdoc"
    - image_path: /assets/images/abby_hering.png
      name: "Abby Hering"
-     affiliation: "UC Davis, PhD Student" 
+     affiliation: "UC Davis" 
+     excerpt: "PhD Student"
    - image_path: assets/images/rapha_moral.png
      name: "Rapha Moral"
-     affiliationt: "Molecular Foundry, Postdoc" 
+     affiliation: "Molecular Foundry" 
+     excerpt: "Postdoc"
    - image_path: assets/images/yiru_liu.png
      name: "Yi-Ru Liu"
-     affiliation: "Molecular Foundry, Phd Student" 
+     affiliation: "Molecular Foundry" 
+     excerpt: "PhD Student"
    - image_path: assets/images/ed_bernard.png
      name: "Ed Bernard"
-     affiliation: "Molecular Foundry, Staff Scientist" 
+     affiliation: "Molecular Foundry" 
+     excerpt: "Staff Scientist"
 
 portrait_data: 
    - image_path: assets/images/maher.png
      name: "Maher Alghalayini"
-     affiliation: "Molecular Foundry, Postdoc"
+     affiliation: "Molecular Foundry"
+     excerpt: "Postdoc
    - image_path: /assets/images/shuan_cheng.png
      name: "Shuan Cheng"
-     excerpt: " Univeristy of Washington, PhD Student"
+     affiliation: " Univeristy of Washington, 
+     excerpt: "PhD Student"
    - image_path: /assets/images/clara_tamura.png
      name: "Clara Tamura"
-     excerpt: "Univeristy of Washington, PhD Student"
+     affiliation: "Univeristy of Washington"
+     excerpt: "PhD Student"
    - image_path: /assets/images/thong_nguyen.png
      name : "Thong Nguyen" 
-     affiliation: "University of Washington, Undergraduate Student" 
+     affiliation: "University of Washington" 
+     excerpt: "Undergraduate Student" 
 
 feature_row4:
   - # image_path: /assets/images/lawrence.png
