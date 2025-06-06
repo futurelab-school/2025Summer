@@ -24,11 +24,11 @@
 
 .archive__item-affilation {
   margin-top: 0.5rem;
-  font-size: 0.95rem;       /* adjust size */
+  font-size: 0.70rem;       /* adjust size */
   font-weight: 400;         /* regular weight */
   color: #444;              /* soft black */
   text-align: center;
-  margin-top: 0.25rem;
+  margin-top: 0.10 rem;
   line-height: 1.4;
 }
 
