@@ -53,19 +53,10 @@ portrait_1:
     excerpt: "Carolin M. Sutter-Fella "
     excerpt: " Molecular Foundry, Staff Scientist" 
 
-portrait_2: 
-   - image_path: assets/images/maher.png
-     excerpt: "Maher Alghalayini"
-     excerpt: "Molecular Foundry | Postdoc"
-   - image_path: /assets/images/shuan_cheng.png
-     excerpt: "Shuan Cheng"
-     excerpt: " Univeristy of Washington | PhD Student"
+portrait_experiment:  
    - image_path: /assets/images/ansuman.png
      excerpt: "Ansuman Halder"
      excerpt: " Molecular Foundry | Postdoc"
-   - image_path: /assets/images/clara_tamura.png
-     excerpt: "Clara Tamura"
-     excerpt: "Univeristy of Washington | PhD Student" 
    - image_path: /assets/images/abby_hering.png
      excerpt: "Abby Hering"
      excerpt: "UC Davis | PhD Student" 
@@ -75,13 +66,23 @@ portrait_2:
    - image_path: assets/images/yiru_liu.png
      excerpt: "Yi-Ru Liu"
      excerpt: "Molecular Foundry | Phd Student" 
-   - image_path: assets/images/thong_nguyen.png
-     excerpt: "Thong Nguyen "
-     excerpt: "University of Washington | Undergraduate Student" 
    - image_path: assets/images/ed_bernard.png
      excerpt: "Ed Bernard"
      excerpt: "Molecular Foundry | Staff Scientist" 
 
+portrait_data: 
+   - image_path: assets/images/maher.png
+     excerpt: "Maher Alghalayini"
+     excerpt: "Molecular Foundry | Postdoc"
+   - image_path: /assets/images/shuan_cheng.png
+     excerpt: "Shuan Cheng"
+     excerpt: " Univeristy of Washington | PhD Student"
+   - image_path: /assets/images/clara_tamura.png
+     excerpt: "Clara Tamura"
+     excerpt: "Univeristy of Washington | PhD Student"
+   - image_path: assets/images/thong_nguyen.png
+     excerpt: "Thong Nguyen "
+     excerpt: "University of Washington | Undergraduate Student" 
 
 feature_row4:
   - # image_path: /assets/images/lawrence.png
@@ -126,10 +127,14 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 
 <!-- ## "Readings from our Hosts"
 #  'Learn more through some of the publications from our host!' -->
-
+# Meet our Organizers
 {% include portrait_row id = "portrait_1"  type = "center" %}
 
-{% include portrait_row id = "portrait_2" %}
+# Experimental Instructors
+{% include portrait_row id = "portrait_experiment" %}
+
+# Data Science Instructors
+{% include portrait_row id = "portrait_data" %}
 
 <!-- {% include feature_row id="feature_row4" type="center" %}  -->
 <div style="display: flex; justify-content: center; gap: 20px;">
