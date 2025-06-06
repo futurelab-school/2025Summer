@@ -87,7 +87,7 @@ portrait_data:
      name: "Shuan Cheng"
      affiliation: "Univeristy of Washington" 
      excerpt: "PhD Student"
-   - image_path: /assets/images/clara_tamura.jpg
+   - image_path: /assets/images/clara_tamura.png
      name: "Clara Tamura"
      affiliation: "Univeristy of Washington"
      excerpt: "PhD Student"
