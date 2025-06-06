@@ -38,7 +38,7 @@ feature_schedule:
     btn_class: "btn--primary"
     url: /schedule/#day-3-open-to-all-user-meeting-attendees-symposium
 
-feature_row3:
+feature_register:
   - url: "https://usermeeting2025.foundry.lbl.gov/meeting-registration/"
     btn_label: "Register"
     btn_class: "btn--primary"
@@ -126,6 +126,8 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 
 All coding activities will have ChatGPT-assisted coding, so no Python or coding mastery is required.
 
+{% include feature_row id = "feature_register" %}
+
 ## Invited Speakers
 - Maria Chan [Argonne National Laboratory ]
 - Amalie Trewartha [Toyota Research Institute]
@@ -133,9 +135,6 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
   
 * Speaker list to be updated
 
-
-
-{% include feature_row id = "feature_row3" %}
 
 <!-- ## "Readings from our Hosts"
 #  'Learn more through some of the publications from our host!' -->
