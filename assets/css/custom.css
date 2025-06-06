@@ -1,6 +1,6 @@
 .portrait__wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, auto)); /* 200px image blocks */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* 200px image blocks */
   gap: 1rem;
   justify-content: center;       /* this keeps the grid centered */
   width: 100%;
@@ -16,7 +16,7 @@
 
 .portrait__item img {
   width: 200px;
-  height: 200px;
+  height: 300px;
   object-fit: cover;
   display: block;
   margin: 0 auto;
