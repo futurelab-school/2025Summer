@@ -47,17 +47,19 @@ portrait_1:
   - title: ""
   - image_path: /assets/images/shijing_sun.png
     name: "Shijing Sun"
-    affiliation: "Univeristy of Washington, Assistant Professor"
+    affiliation: "Univeristy of Washington"
+    excerpt: "Assistant Professor"
   - title: ""
   - image_path: /assets/images/carolin_sutterfella.png
-    name: "Carolin M. Sutter-Fella "
-    affiliation: " Molecular Foundry, Staff Scientist" 
+    name: "Carolin M. Sutter-Fella"
+    affiliation: "Molecular Foundry" 
+    excerpt: "Staff Scientist"
   - title: ""
 
 portrait_experiment:  
    - image_path: /assets/images/ansuman.png
      name: "Ansuman Halder"
-     affiliation: " Molecular Foundry"
+     affiliation: "Molecular Foundry"
      excerpt: "Postdoc"
    - image_path: /assets/images/abby_hering.png
      name: "Abby Hering"
@@ -83,7 +85,7 @@ portrait_data:
      excerpt: "Postdoc"
    - image_path: /assets/images/shuan_cheng.png
      name: "Shuan Cheng"
-     affiliation: " Univeristy of Washington, 
+     affiliation: "Univeristy of Washington" 
      excerpt: "PhD Student"
    - image_path: /assets/images/clara_tamura.png
      name: "Clara Tamura"
