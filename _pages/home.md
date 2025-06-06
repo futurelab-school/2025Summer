@@ -140,7 +140,7 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 <!-- One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
 {% if page.page_css %}
-  {% for stylesheet in page.page_css %}
+  {% for stylesheet in page.page_css  type = "center" %}
     <link rel="stylesheet" href="{{ stylesheet | relative_url }}">
   {% endfor %}
 {% endif %}
