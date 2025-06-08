@@ -77,6 +77,10 @@ portrait_experiment:
      name: "Ed Bernard"
      affiliation: "Molecular Foundry" 
      excerpt: "Staff Scientist"
+   - image_path: assets/images/Morgan.jpg
+     name: "Morgan Wall"
+     affiliation: "Molecular Foundry" 
+     excerpt: "Computer Systems Engineer"
 
 portrait_data: 
    - image_path: assets/images/maher.png
