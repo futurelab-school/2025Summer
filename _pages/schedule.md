@@ -49,7 +49,7 @@ layout: single
 | 1:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* <br>•Introduction to Gaussian processes <br>• Practical code implementation of Gaussian processes |
 | 2:30   | Break |
 | 3:00   | **Bayesian Optimization and Active Learnign** *(Clara Tamura)* <br>• Color mixing game <br>• How does BO work <br>• Build your own BO |
-| 4:55   | Wrap Up Day 2
+| 4:30   | Wrap Up Day 2
 
 ---
 
