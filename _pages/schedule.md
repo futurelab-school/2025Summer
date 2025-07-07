@@ -33,7 +33,8 @@ layout: single
 
 | Time   | Activity |
 |--------|----------|
-| 9:00   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources <br>• Prepare data for ML & score generation |
+| 9:00   | **Catch Up** *Speaker: Carolin Sutter-Fella* |
+| 9:30   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources <br>• Prepare data for ML & score generation |
 | 10:00  | **Extracting machine-readable metrics for thin films I** *(Shuan Cheng)*  <br> |
 | 10:30  | Break |
 | 11:00  | **Extracting machine-readable metrics for thin films II** *(Shuan Cheng, Thong Nguyen)*<br>• UV-Vis Metric<br>• PL Metrics <br>• PL Image Metric |
@@ -48,7 +49,7 @@ layout: single
 | 1:00   | **Getting Started with Machine Learning** <br>•Overview of Machine Learning: Key concepts and types of learning |
 | 1:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* <br>•Introduction to Gaussian processes <br>• Practical code implementation of Gaussian processes |
 | 2:30   | Break |
-| 3:00   | **Bayesian Optimization and Active Learnign** *(Clara Tamura)* <br>• Color mixing game <br>• How does BO work <br>• Build your own BO |
+| 3:00   | **Bayesian Optimization and Active Learning** *(Clara Tamura)* <br>• Color mixing game <br>• How does BO work <br>• Build your own BO |
 | 4:30   | Wrap Up Day 2
 
 ---
