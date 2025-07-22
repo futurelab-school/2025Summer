@@ -66,10 +66,10 @@ layout: single
 |--------|----------|
 | 1:15   | User Town Hall |
 | 2:15   | **Introduction to Closed Loop Experiments** *(Prof. Shijing Sun – Invited)* |
-| 2:45   | **Industry Talk:** *Dr. Amalie Trewartha (Toyota Research Institute) – Invited* |
-| 3:15   | **Academic Talk:** *Dr. Maria Chan (Argonne National Laboratory) – Invited* |
-| 3:30   | Break |
-| 3:45   | **Contributed Talk:** *Ansuman Halder – AutoBot* |
+| 2:30   | **Industry Talk:** *Dr. Amalie Trewartha (Toyota Research Institute) – Invited* |
+| 3:00   | **Academic Talk:** *Dr. Maria Chan (Argonne National Laboratory) – Invited* |
+| 3:30  | **Contributed Talk:** *Ansuman Halder – AutoBot* |
+| 3:45   | Break |
 | 4:15   | **Contributed Talk:** *Mengying Liu - (Washington and Lee University)*|
 | 4:45   | **Industry Talk:** *Luis Barroso-Luque (Meta) – Invited* |
 | 5:00   | **Closing Remarks** – End of Workshop |
