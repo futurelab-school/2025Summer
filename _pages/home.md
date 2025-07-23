@@ -78,15 +78,16 @@ portrait_experiment:
      affiliation: "Molecular Foundry" 
      excerpt: "Staff Scientist"
    - image_path: assets/images/Morgan.jpg
-     name: "Morgan Wall"
-     affiliation: "Molecular Foundry" 
-     excerpt: "Computer Systems Engineer"
+
 
 portrait_data: 
    - image_path: assets/images/maher.png
      name: "Maher Alghalayini"
      affiliation: "Molecular Foundry"
      excerpt: "Postdoc"
+   - name: "Morgan Wall"
+     affiliation: "Molecular Foundry" 
+     excerpt: "Computer Systems Engineer"
    - image_path: /assets/images/shuan_cheng.png
      name: "Shuan Cheng"
      affiliation: "Univeristy of Washington" 
@@ -99,6 +100,7 @@ portrait_data:
      name : "Thong Nguyen" 
      affiliation: "University of Washington" 
      excerpt: "Undergraduate Student" 
+
 
 feature_row4:
   - # image_path: /assets/images/lawrence.png

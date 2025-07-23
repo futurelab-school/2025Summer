@@ -9,22 +9,23 @@ layout: single
 
 | Time   | Activity                                                                 |
 |--------|--------------------------------------------------------------------------|
-| 9:00   | Welcome                                                                   |
-| 9:15   | Big Picture (AI &  Human & Robots)                 |
+| 9:00   | Welcome  *Speaker: Carolin Sutter-Fella & Shijing Sun*                             |
+| 9:15   | AI for materials & Intro to Halide Perovskites — *Speaker: Carolin Sutter-Fella*   |
 | 9:45   | Introduction to Halide Perovskites — *Speaker: Carolin Sutter-Fella*     |
 | 10:15  | Break        |
-| 10:45  | Introduction of Teams                                                       |
-| 11:15  | Lab Safety Briefing                                                       |
-| 11:30  | **Lunch Break**                                                           |
-| 12:30  | **Project Work Start**                                                    |
-|        | • **Team 1:** Manual thin film synthesis (fume hood & glovebox)          |
-|        | • **Team 2:** AutoBot perovskite synthesis & characterization            |
-|        | • **Team 3:** ALDbot synthesis & characterization                         |
-|        | • **Team 4:** Data analysis & processing                                  |
-| 15:00  | Break                                                                     |
-| 15:30  | Continue Project Work                                                     |
-| 17:30  | Wrap Up Day 1                                                             |
-| 18:00  | Dinner                                                                    |
+| 10:45  | Lab Safety Briefing                                                    |
+| 11:00  | Begin Working                                                    |
+|        | • **Task 1:** Lab: Manual thin film synthesis (fume hood & glovebox)          |
+|        | • **Task 2:** Lab: AutoBot perovskite synthesis & characterization            |
+|        | • **Task 3:** Lab: ALDbot API and operations                     |
+|        | • **Task 4:** Coding: Data analysis & processing                                  |
+| 12:30  | **Lunch Break**                                                           |
+| 13:30  | **Project Work Start**                                                    |
+| 14:45  | Break                                                                     |
+| 15:00  | Continue Project Work                                                     |
+| 17:15  | Wrap Up Day 1                                                             |
+| 15:30  | Dinner                                                                    |
+
 
 
 ## Day 2 Molecular Foundry - Open to All User Meeting Attendees (Tutorial)
@@ -33,7 +34,7 @@ layout: single
 
 | Time   | Activity |
 |--------|----------|
-| 9:00   | **Catch Up** *Speaker: Carolin Sutter-Fella* |
+| 9:00   | **Summary of day 1 & Perovskite Intro** *Speaker: Carolin Sutter-Fella* |
 | 9:30   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources <br>• Prepare data for ML & score generation |
 | 10:00  | **Extracting machine-readable metrics for thin films I** *(Shuan Cheng)*  <br> |
 | 10:30  | Break |
