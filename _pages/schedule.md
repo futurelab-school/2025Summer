@@ -7,8 +7,9 @@ layout: single
 
 ## Day 1 Molecular Foundry - Summer School Only
 
-| Time   | Activity                                                                 |
+| Time   | Activity (@ Molecular Foundry, Building 67, Room 3111)                                                                 |
 |--------|--------------------------------------------------------------------------|
+| 8:50   | Badge Pick Up                            |
 | 9:00   | Welcome  *Speaker: Carolin Sutter-Fella & Shijing Sun*                             |
 | 9:15   | AI for materials & Intro to Halide Perovskites — *Speaker: Carolin Sutter-Fella*   |
 | 9:45   | Introduction to Halide Perovskites — *Speaker: Carolin Sutter-Fella*     |
@@ -32,7 +33,7 @@ layout: single
 
 ### AM: Getting Data Machine Learning Ready
 
-| Time   | Activity |
+| Time   | Activity (@ Building B59, Room 3101)|
 |--------|----------|
 | 9:00   | **Summary of day 1 & Perovskite Intro** *Speaker: Carolin Sutter-Fella* |
 | 9:30   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources <br>• Prepare data for ML & score generation |
@@ -45,7 +46,7 @@ layout: single
 
 ### PM: Application of Machine Learning
 
-| Time   | Activity |
+| Time   | Activity (@ Building B59, Room 3101)|
 |--------|----------|
 | 13:00   | **Getting Started with Machine Learning** <br>•Overview of Machine Learning: Key concepts and types of learning |
 | 13:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* <br>•Introduction to Gaussian processes <br>• Practical code implementation of Gaussian processes |
