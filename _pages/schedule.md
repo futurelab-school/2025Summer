@@ -13,7 +13,8 @@ layout: single
 | 9:00   | Welcome  *Speaker: Carolin Sutter-Fella & Shijing Sun*                             |
 | 9:15   | AI for materials & Intro to Halide Perovskites — *Speaker: Carolin Sutter-Fella*   |
 | 9:45   | Introduction to Halide Perovskites — *Speaker: Carolin Sutter-Fella*     |
-| 10:15  | Break        |
+| 10:15  | Group photo  |
+| 10:20  | Break        |
 | 10:45  | Lab Safety Briefing                                                    |
 | 11:00  | Begin Working                                                    |
 |        | • **Task 1:** Lab: Manual thin film synthesis (fume hood & glovebox)          |
