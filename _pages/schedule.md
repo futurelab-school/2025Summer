@@ -24,7 +24,7 @@ layout: single
 | 14:45  | Break                                                                     |
 | 15:00  | Continue Project Work                                                     |
 | 17:15  | Wrap Up Day 1                                                             |
-| 15:30  | Dinner                                                                    |
+| 17:30  | Dinner                                                                    |
 
 
 
@@ -47,11 +47,11 @@ layout: single
 
 | Time   | Activity |
 |--------|----------|
-| 1:00   | **Getting Started with Machine Learning** <br>•Overview of Machine Learning: Key concepts and types of learning |
-| 1:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* <br>•Introduction to Gaussian processes <br>• Practical code implementation of Gaussian processes |
-| 2:30   | Break |
-| 3:00   | **Bayesian Optimization and Active Learning** *(Clara Tamura)* <br>• Color mixing game <br>• How does BO work <br>• Build your own BO |
-| 4:30   | Wrap Up Day 2
+| 13:00   | **Getting Started with Machine Learning** <br>•Overview of Machine Learning: Key concepts and types of learning |
+| 13:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* <br>•Introduction to Gaussian processes <br>• Practical code implementation of Gaussian processes |
+| 14:30   | Break |
+| 15:00   | **Bayesian Optimization and Active Learning** *(Clara Tamura)* <br>• Color mixing game <br>• How does BO work <br>• Build your own BO |
+| 16:30   | Wrap Up Day 2
 
 ---
 
@@ -65,12 +65,12 @@ layout: single
 
 | Time   | Activity |
 |--------|----------|
-| 1:15   | User Town Hall |
-| 2:15   | **Introduction to Closed Loop Experiments** *(Prof. Shijing Sun – Invited)* |
-| 2:30   | **Industry Talk:** *Dr. Amalie Trewartha (Toyota Research Institute) – Invited* |
-| 3:00   | **Academic Talk:** *Dr. Maria Chan (Argonne National Laboratory) – Invited* |
-| 3:30  | **Contributed Talk:** *Ansuman Halder – AutoBot* |
-| 3:45   | Break |
-| 4:15   | **Contributed Talk:** *Mengying Liu - (Washington and Lee University)*|
-| 4:45   | **Industry Talk:** *Luis Barroso-Luque (Meta) – Invited* |
-| 5:00   | **Closing Remarks** – End of Workshop |
+| 13:15   | User Town Hall |
+| 14:15   | **Introduction to Closed Loop Experiments** *(Prof. Shijing Sun – Invited)* |
+| 14:30   | **Industry Talk:** *Dr. Amalie Trewartha (Toyota Research Institute) – Invited* |
+| 15:00   | **Academic Talk:** *Dr. Maria Chan (Argonne National Laboratory) – Invited* |
+| 15:30  | **Contributed Talk:** *Ansuman Halder – AutoBot* |
+| 15:45   | Break |
+| 16:15   | **Contributed Talk:** *Mengying Liu - (Washington and Lee University)*|
+| 16:30   | **Industry Talk:** *Luis Barroso-Luque (Meta) – Invited* |
+| 17:00   | **Closing Remarks** – End of Workshop |
