@@ -10,7 +10,7 @@ layout: single
 | Time   | Activity (@ Molecular Foundry, Building 67, Room 3111)                                                                 |
 |--------|--------------------------------------------------------------------------|
 | 8:50   | Badge Pick Up                            |
-| 9:00   | Welcome  *Speaker: Carolin Sutter-Fella & Shijing Sun*                             |
+| 9:00   | Welcome  *Speaker: Ashfia Huq (Molecular Foundry Director) & Shannon Ciston (Director of the User Program, Molecular Foundry)*                             |
 | 9:15   | AI for materials & Intro to Halide Perovskites — *Speaker: Carolin Sutter-Fella*   |
 | 9:45   | Introduction to Halide Perovskites — *Speaker: Carolin Sutter-Fella*     |
 | 10:15  | Group photo  |
@@ -21,8 +21,8 @@ layout: single
 |        | • **Task 2:** Lab: AutoBot perovskite synthesis & characterization            |
 |        | • **Task 3:** Lab: ALDbot API and operations                     |
 |        | • **Task 4:** Coding: Data analysis & processing                                  |
-| 12:30  | **Lunch Break**                                                           |
-| 13:30  | **Project Work Start**                                                    |
+| 12:30  | Lunch Break                                                          |
+| 13:30  | Continue Project Work                                                    |
 | 14:45  | Break                                                                     |
 | 15:00  | Continue Project Work                                                     |
 | 17:15  | Wrap Up Day 1                                                             |
