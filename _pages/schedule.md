@@ -10,7 +10,8 @@ layout: single
 | Time   | Activity (@ Molecular Foundry, Building 67, Room 3111)                                                                 |
 |--------|--------------------------------------------------------------------------|
 | 8:50   | Badge Pick Up                            |
-| 9:00   | Welcome  *Speaker: Ashfia Huq (Molecular Foundry Director) & Shannon Ciston (Director of the User Program, Molecular Foundry)*                             |
+| 9:00   | Welcome to Day1 *Speaker: Carolin Sutter-Fella & Shijing Sun*  |
+| 9:05   | Openign remarks *Speaker: Ashfia Huq (Molecular Foundry Director) & Shannon Ciston (Director of the User Program, Molecular Foundry)*                             |
 | 9:15   | AI for materials & Intro to Halide Perovskites — *Speaker: Carolin Sutter-Fella*   |
 | 9:45   | Introduction to Halide Perovskites — *Speaker: Carolin Sutter-Fella*     |
 | 10:15  | Group photo  |
@@ -36,7 +37,8 @@ layout: single
 
 | Time   | Activity (@ Building B59, Room 3101)|
 |--------|----------|
-| 9:00   | **Summary of day 1 & Perovskite Intro** *Speaker: Carolin Sutter-Fella* |
+| 9:00   | Welcome to Day2 *Speaker: Carolin Sutter-Fella & Shijing Sun*  |
+| 9:05   | **Summary of day 1 & Perovskite Intro** *Speaker: Carolin Sutter-Fella* |
 | 9:30   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources <br>• Prepare data for ML & score generation |
 | 10:00  | **Extracting machine-readable metrics for thin films I** *(Shuan Cheng)*  <br> |
 | 10:30  | Break |
