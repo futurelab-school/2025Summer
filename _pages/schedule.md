@@ -12,8 +12,8 @@ layout: single
 | 8:50   | Badge Pick Up                            |
 | 9:00   | Welcome to Day1 *Speaker: Carolin Sutter-Fella & Shijing Sun*  |
 | 9:05   | Openign remarks *Speaker: Ashfia Huq (Molecular Foundry Director) & Shannon Ciston (Director of the User Program, Molecular Foundry)*                             |
-| 9:15   | AI for materials & Intro to Halide Perovskites — *Speaker: Carolin Sutter-Fella*   |
-| 9:45   | Introduction to Halide Perovskites — *Speaker: Carolin Sutter-Fella*     |
+| 9:15   | AI for materials & Introduction to Halide Perovskites — *Speaker: Carolin Sutter-Fella*   |
+| 9:45   | Introduction of Teams and Projects|
 | 10:15  | Group photo  |
 | 10:20  | Break        |
 | 10:45  | Lab Safety Briefing                                                    |
