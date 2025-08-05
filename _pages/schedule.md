@@ -51,7 +51,7 @@ layout: single
 
 | Time   | Activity (@ Building B59, Room 3101)|
 |--------|----------|
-| 13:00   | **Getting Started with Machine Learning** <br>•Overview of Machine Learning: Key concepts and types of learning |
+| 13:00   | **Getting Started with Machine Learning** *(Maher Alghalayini)*  <br>•Overview of Machine Learning: Key concepts and types of learning |
 | 13:15   | **Basics of Gaussian Process Surrogate Models** *(Maher Alghalayini)* <br>•Introduction to Gaussian processes <br>• Practical code implementation of Gaussian processes |
 | 14:30   | Break |
 | 15:00   | **Bayesian Optimization and Active Learning** *(Clara Tamura)* <br>• Color mixing game <br>• How does BO work <br>• Build your own BO |
