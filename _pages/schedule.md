@@ -7,9 +7,9 @@ layout: single
 
 ## Day 1 Molecular Foundry - Summer School Only
 
-| Time   | Activity (@ Molecular Foundry, Building 67, Room 3204)                                                                 |
+| Time   | Activity (@ Molecular Foundry, Building 67, Room 3111)      |
 |--------|--------------------------------------------------------------------------|
-| 8:30   | Badge Pick Up                            |
+| 8:30   | Badge Pick Up (Room 3204)                          |
 | 9:00   | Welcome to Day1 *Speaker: Carolin Sutter-Fella & Shijing Sun*  |
 | 9:05   | Openign remarks *Speaker: Ashfia Huq (Molecular Foundry Director) & Shannon Ciston (Director of the User Program, Molecular Foundry)*                             |
 | 9:15   | AI for materials & Introduction to Halide Perovskites — *Speaker: Carolin Sutter-Fella*   |
@@ -72,9 +72,9 @@ layout: single
 | 13:15   | User Town Hall |
 | 14:15   | **Introduction to Closed Loop Experiments** *(Prof. Shijing Sun – Invited)* |
 | 14:30   | **Industry Talk:** *Dr. Amalie Trewartha (Toyota Research Institute) – Invited* |
-| 15:00   | **Academic Talk:** *Dr. Tanjin He (Argonne National Laboratory) – Invited* |
-| 15:30  | **Contributed Talk:** *Ansuman Halder – AutoBot* |
+| 15:00   | **Towards AI-ready experimental data for spectroscopy informatics** *Dr. Tanjin He (Argonne National Laboratory) – Invited* |
+| 15:30  | **High Throughput Texture Analysis of Quartz via Automated Polarized Reflective Light Microscopy:** *Mengying Liu - (Washington and Lee University)*|
 | 15:45   | Break |
-| 16:15   | **Contributed Talk:** *Mengying Liu - (Washington and Lee University)*|
-| 16:30   | **Industry Talk:** *Luis Barroso-Luque (Meta) – Invited* |
+| 16:15   | **Towards truly universal universal interatomic potentials** *Luis Barroso-Luque (Meta) – Invited* |
+| 16:30   | **AI-driven robot enables synthesis-property relation prediction for meal halide perovskites in humid atmosphere** *Ansuman Halder – AutoBot* |
 | 17:00   | **Closing Remarks** – End of Workshop |
