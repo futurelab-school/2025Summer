@@ -43,12 +43,12 @@ feature_row3:
     url: "https://colab.research.google.com/drive/1ulpTcryoM1dxU8jFZZjrk47oML5qucFd"
     btn_label: "Session Notebook 1"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+  # - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Intro to Gaussian Process Regression"
     url: "https://drive.google.com/drive/folders/1RPPTgTrn4zrnxCGDGsBOB74UJmDJtPrD"
     btn_label: "Session Notebook 2"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+  # - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Intro to Gaussian Process Regression"
     url: ""
     btn_label: "Session Notebook 3"
@@ -70,6 +70,8 @@ feature_row4:
 
 
 {% include feature_row id="intro" type="center" %} 
+
+{% include feature_row id="feature_row" type="center" %} 
 
 {% include feature_row id = "feature_row2" type = "left"%}
 
