@@ -21,35 +21,53 @@ feature_row:
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     title: "Safety Prep"
     excerpt: "Read through the safety training!"
-    url: "https://drive.google.com/drive/"
+    url: "https://colab.research.google.com/drive/14q18Ls6zKSMKmOeyrm2vBpROWCa_WELf"
     btn_label: "Saftey"
     btn_class: "btn--primary"
 
 feature_row1:
   - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    title: "Shared Data"
+    title: "Introduction to Google Colab and Gemini"
     excerpt: "Find the shared data for the course!"
-    url: "https://drive.google.com/drive/"
-    btn_label: "Data"
+    url: "https://colab.research.google.com/drive/1gQ1PsNhgQA2Eh40ngdS5YW-N4_fsWZB3#scrollTo=M0x9KyPyct51"
+    btn_label: "Session Notebook"
     btn_class: "btn--primary"
 
 feature_row2:
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    title: "Shared Code"
-    excerpt: "Find the shared code for the course!"
-    url: "https://colab.research.google.com/"
-    btn_label: "Code"
+    title: "Extracting Machine-readable metrics"
+    url: "https://colab.research.google.com/drive/1xCqPG-x8W6SptZ3DphjisZchx-yJ6gNo"
+    btn_label: "Introduction to Google Colab and Gemini"
     btn_class: "btn--primary"
+
+feature_row3:
+  - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+    title: "Intro to Gaussian Process Regression"
+    url: "https://colab.research.google.com/drive/1ulpTcryoM1dxU8jFZZjrk47oML5qucFd"
+    btn_label: "Session Notebook 1"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+    title: "Intro to Gaussian Process Regression"
+    url: "https://drive.google.com/drive/folders/1RPPTgTrn4zrnxCGDGsBOB74UJmDJtPrD"
+    btn_label: "Introduction to Google Colab and Gemini"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+    title: "Intro to Gaussian Process Regression"
+    url: "h"
+    btn_label: "Introduction to Google Colab and Gemini"
+    btn_class: "btn--primary"
+
 
 feature_row4:
   - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
-    alt: "Readings"
-    title: "Readings"
-    excerpt: 'Learn more thourgh some of the publications from our host!'
-    url: "https://www.uwsunlab.com/papers"
-    btn_label: "Read More"
+    title: "Session Notebook"
+    url: "https://colab.research.google.com/drive/1myRDbYDa3jpFe2UeZbJcL53v7RrE8E5I"
+    btn_label: "Game"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
+    title: "Session Notebook"
+    url: "https://colab.research.google.com/drive/14q18Ls6zKSMKmOeyrm2vBpROWCa_WELf"
+    btn_label: "Session Notebook"
     btn_class: "btn--primary"
 ---
 # Welcome to 2025 Summer School
@@ -57,9 +75,13 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %} 
 
-{% include feature_row id = "feature_row3" type='left' %}
+
 
 {% include feature_row id = "feature_row2" type = "left"%}
+
+{% include feature_row id = "feature_row3" type='left' %}
+
+{% include feature_row id = "feature_row4" type='left' %}
 
 
 <!-- {% include feature_row id="feature_row4" type="center" %} One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
