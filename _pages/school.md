@@ -19,7 +19,7 @@ permalink: /school/
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
     title: "Access Data"
-    url: "https://colab.research.google.com/drive/14q18Ls6zKSMKmOeyrm2vBpROWCa_WELf"
+    url: "https://drive.google.com/drive/folders/14Yjtb6LylDDmgrQbZn_Xk6BaclhLDksO?usp=drive_link"
     btn_label: "Data"
     btn_class: "btn--primary"
 
@@ -46,12 +46,12 @@ feature_row3:
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Intro to Gaussian Process Regression"
     url: "https://drive.google.com/drive/folders/1RPPTgTrn4zrnxCGDGsBOB74UJmDJtPrD"
-    btn_label: "Introduction to Google Colab and Gemini"
+    btn_label: "Session Notebook 2"
     btn_class: "btn--primary"
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Intro to Gaussian Process Regression"
-    url: "h"
-    btn_label: "Introduction to Google Colab and Gemini"
+    url: ""
+    btn_label: "Session Notebook 3"
     btn_class: "btn--primary"
 
 feature_row4:
