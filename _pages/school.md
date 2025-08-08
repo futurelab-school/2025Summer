@@ -18,18 +18,15 @@ permalink: /school/
 
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    title: "Safety Prep"
-    excerpt: "Read through the safety training!"
+    title: "Access Data"
     url: "https://colab.research.google.com/drive/14q18Ls6zKSMKmOeyrm2vBpROWCa_WELf"
-    btn_label: "Saftey"
+    btn_label: "Data"
     btn_class: "btn--primary"
 
 feature_row1:
   - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
     title: "Introduction to Google Colab and Gemini"
-    excerpt: "Find the shared data for the course!"
-    url: "https://colab.research.google.com/drive/1gQ1PsNhgQA2Eh40ngdS5YW-N4_fsWZB3#scrollTo=M0x9KyPyct51"
+    url: "https://colab.research.google.com/drive/1gQ1PsNhgQA2Eh40ngdS5YW-N4_fsWZB3"
     btn_label: "Session Notebook"
     btn_class: "btn--primary"
 
@@ -57,14 +54,13 @@ feature_row3:
     btn_label: "Introduction to Google Colab and Gemini"
     btn_class: "btn--primary"
 
-
 feature_row4:
-  - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
+  - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Session Notebook"
     url: "https://colab.research.google.com/drive/1myRDbYDa3jpFe2UeZbJcL53v7RrE8E5I"
     btn_label: "Game"
     btn_class: "btn--primary"
-  - image_path: /assets/images/snapmaker-3d-printer-G0B5u9qShJc-unsplash.jpg
+  - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Session Notebook"
     url: "https://colab.research.google.com/drive/14q18Ls6zKSMKmOeyrm2vBpROWCa_WELf"
     btn_label: "Session Notebook"
@@ -77,7 +73,7 @@ feature_row4:
 
 {% include feature_row id = "feature_row2" type = "left"%}
 
-{% include feature_row id = "feature_row3" type='left' %}
+{% include feature_row id = "feature_row3" type='center' %}
 
 {% include feature_row id = "feature_row4" type='left' %}
 
