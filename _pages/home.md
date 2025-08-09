@@ -125,6 +125,8 @@ invited_speaker1:
   - image_path: /assets/images/ameliatrewartha.jpeg
     title: Amalie Trewartha, Toyota Reserach Institute
     excerpt: 
+map: 
+  - image_path: /assets/images/LBNL logistics.png
 
 ---
 {% include feature_row id="intro" type="center" %} 
@@ -141,7 +143,7 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 {% include feature_row id = "feature_schedule"%}
 
 ## Map
-![Map of Lawrence Berkeley National Lab]('assets/images/LBNL logistics.png')
+{% include feature_row id = "map"%}
 
 
 ## Who is eligible to register for the summer course?
