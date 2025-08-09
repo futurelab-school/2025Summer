@@ -140,6 +140,10 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 ## Schedule
 {% include feature_row id = "feature_schedule"%}
 
+## Map
+![Map of Lawrence Berkeley National Lab]('assets/images/LBNL logistics.png')
+
+
 ## Who is eligible to register for the summer course?
 - Those registered for the 2025 Molecular Foundary Annual Meeting.
 - Professionals,  Postdocs,  Graduate Students,  Undergraduate Students.
@@ -150,8 +154,6 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 
 ## Invited Speakers
 {% include feature_row id = "invited_speaker1"   type="left"%}
-
-
 
 <!-- ## "Readings from our Hosts"
 #  'Learn more through some of the publications from our host!' -->
