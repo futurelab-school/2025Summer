@@ -85,7 +85,8 @@ portrait_data:
      name: "Maher Alghalayini"
      affiliation: "Molecular Foundry"
      excerpt: "Postdoc"
-   - name: "Morgan Wall"
+   - image_path: assets/images/Morgan.jpg
+     name: "Morgan Wall"
      affiliation: "Molecular Foundry" 
      excerpt: "Computer Systems Engineer"
    - image_path: /assets/images/shuan_cheng.png
@@ -101,7 +102,6 @@ portrait_data:
      affiliation: "University of Washington" 
      excerpt: "Undergraduate Student" 
 
-
 feature_row4:
   - # image_path: /assets/images/lawrence.png
     url: "https://www.uwsunlab.com/papers"
@@ -112,6 +112,12 @@ feature_row4:
     url: https://sutterfellalab.lbl.gov/publications/
     btn_label: "Read More @ Lawrence National Labs"
     btn_class: "btn--primary"
+  
+invited_speaker1: 
+  -  image_path: /assets/images/
+
+
+
 ---
 {% include feature_row id="intro" type="center" %} 
 
@@ -135,7 +141,7 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 {% include feature_row id = "feature_register" %}
 
 ## Invited Speakers
-- Maria Chan [Argonne National Laboratory ]
+- Tanjin He [Argonne National Laboratory ]
 - Amalie Trewartha [Toyota Research Institute]
 - Luis Barroso-Luque [Meta]
   
