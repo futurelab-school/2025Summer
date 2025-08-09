@@ -114,7 +114,7 @@ feature_row4:
   
 invited_speaker1: 
   -  image_path: /assets/images/tanjinhe.jpeg
-  # - title: Tanjin He
+  - title: Tanjin He
   - excerpt: The explosive growth of AI/ML in materials science has largely been fueled by computational data which are abundant, diverse, and consistent. In contrast, training AI based on experimental data has been extremely challenging due to numerous fundamental challenges in obtaining, preparing, or sharing AI-ready data. The use of AI-ready data from both experimental and computational sources, as well as AI/ML workflows for experimental data interpretation, are essential for the development of autonomous laboratories. In this talk, we will discuss how we harness experimental multimodal data from scientific literature for spectroscopy informatics. By developing an agentic workflow that orchestrates different machine learning models, we automatically convert unstructured spectroscopy data from scientific figures and text into structured numerical data and metadata, which can serve as references for new spectroscopy experiments. This multimodal information retrieval approach lays the foundation for building large-scale experimental spectroscopy databases and developing spectral matching algorithms for autonomous materials characterization.
   
 
