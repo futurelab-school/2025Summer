@@ -151,8 +151,6 @@ All coding activities will have ChatGPT-assisted coding, so no Python or coding 
 ## Invited Speakers
 {% include feature_row id = "invited_speaker1"   type="left"%}
 
-  
-
 
 
 <!-- ## "Readings from our Hosts"

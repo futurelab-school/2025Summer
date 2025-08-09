@@ -10,6 +10,10 @@ layout: single
 feature_row:
   - image_path: /assets/images/host_logos.png 
   - image_width: 100%
+
+sponsors: 
+  - image_path: assets/images/SCIPRIOS-icon.jpg
+  - image_path: assets/images/Toyota_Research_Institute_Logo_Square.png
 ---
 
 ## Scope:
@@ -19,10 +23,14 @@ feature_row:
 - Emerging Energy Materials Focus: We will teach you on the emergent thin film semiconductors halide perovskites for energy applications. These materials have their own challenges that we aim to tackle with AI/ML technologies. 
 
 
+#  Sponsors: 
+{% include feature_row id="sponsors" type="center" %} 
+
 
 ## Hosted by:
 <!-- {% include feature_row type="center" %} -->
 {% include figure  image_path="/assets/images/host_logos.png"  alt="Host logos"  width="100%" class="align-center" %}
+
 
 
 
