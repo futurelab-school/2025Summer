@@ -9,7 +9,7 @@ main:
     url: /about/
     enabled: true
   - title: "School"
-    url: /school/
+    url: /404/ #/school/
   #   enabled: false
 
   
