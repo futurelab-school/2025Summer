@@ -77,4 +77,4 @@ layout: single
 
 | 15:45   | **AI-driven robot enables synthesis-property relation prediction for meal halide perovskites in humid atmosphere** *Ansuman Halder – AutoBot* |
 | 16:00   | **Closing Remarks** – End of Workshop |
-| 16:00   | Break |
+| 16:00   | Break & Refreshments|
