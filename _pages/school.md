@@ -68,17 +68,22 @@ feature_row4:
 ---
 # Welcome to 2025 Summer School
 
-
+<!-- Data -->
 {% include feature_row id="intro" type="left" %} 
 
+<!-- Introduction to Colab -->
 {% include feature_row id="feature_row" type="left" %} 
 
+<!-- Extracting ML readable  -->
 {% include feature_row id="feature_row1" type="left" %} 
 
+<!-- Intro to Gaussian -->
 {% include feature_row id = "feature_row2" type = "left"%}
 
-{% include feature_row id = "feature_row3" type='left' %}
+<!-- Intro to BO -->
 
+{% include feature_row id = "feature_row3" type='left' %}
+<!-- Introduction to Colab -->
 {% include feature_row id = "feature_row4" type='left' %}
 
 
