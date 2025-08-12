@@ -71,10 +71,10 @@ layout: single
 |--------|----------|
 | 13:15   | User Town Hall |
 | 14:15   | **Introduction to Closed Loop Experiments** *(Prof. Shijing Sun – Invited)* |
-| 14:30   | **Industry Talk:** *Dr. Amalie Trewartha (Toyota Research Institute) – Invited* |
+| 14:30   |  **Towards truly universal universal interatomic potentials** *Luis Barroso-Luque (Meta) – Invited* |
 | 15:00   | **Towards AI-ready experimental data for spectroscopy informatics** *Dr. Tanjin He (Argonne National Laboratory) – Invited* |
 | 15:30  | **High Throughput Texture Analysis of Quartz via Automated Polarized Reflective Light Microscopy:** *Mengying Liu - (Washington and Lee University)*|
-| 15:45   | Break |
-| 16:15   | **Towards truly universal universal interatomic potentials** *Luis Barroso-Luque (Meta) – Invited* |
-| 16:45   | **AI-driven robot enables synthesis-property relation prediction for meal halide perovskites in humid atmosphere** *Ansuman Halder – AutoBot* |
-| 17:00   | **Closing Remarks** – End of Workshop |
+
+| 15:45   | **AI-driven robot enables synthesis-property relation prediction for meal halide perovskites in humid atmosphere** *Ansuman Halder – AutoBot* |
+| 16:00   | Break |
+| 16:00   | **Closing Remarks** – End of Workshop |
