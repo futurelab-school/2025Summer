@@ -76,5 +76,5 @@ layout: single
 | 15:30  | **High Throughput Texture Analysis of Quartz via Automated Polarized Reflective Light Microscopy:** *Mengying Liu - (Washington and Lee University)*|
 
 | 15:45   | **AI-driven robot enables synthesis-property relation prediction for meal halide perovskites in humid atmosphere** *Ansuman Halder – AutoBot* |
-| 16:00   | Break |
 | 16:00   | **Closing Remarks** – End of Workshop |
+| 16:00   | Break |
