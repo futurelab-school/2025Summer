@@ -125,6 +125,7 @@ invited_speaker1:
 
 map: 
   - image_path: /assets/images/LBNL logistics.png
+    url: /assets/images/LBNL logistics.png
 
 ---
 {% include feature_row id="intro" type="center" %} 
@@ -141,7 +142,7 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 {% include feature_row id = "feature_schedule"%}
 
 ## Map
-{% include feature_row id = "map"% type='center'}
+{% include feature_row id = "map" type='center'%}
 
 
 ## Who is eligible to register for the summer course?
