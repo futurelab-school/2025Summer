@@ -16,6 +16,13 @@ permalink: /school/
 # intro: 
 #   - excerpt: 'Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science'
 
+workshop_day1:
+  - image_path: /assets/images/louis-reed-JeInkKlI2Po-unsplash.jpg
+    title: "Access Data"
+    url: "https://github.com/mkywall/crucible-analysis-notebooks/blob/main/general/summer_school_data_tutorial_updated.ipynb"
+    btn_label: "Code"
+    btn_class: "btn--primary"
+
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
     title: "Access Data"
@@ -67,24 +74,26 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 # Welcome to 2025 Summer School
+<!-- Workshop Day 1-->
+{% include feature_row id="workshop_day1" type="left" %} 
 
 <!-- Data -->
-{% include feature_row id="intro" type="left" %} 
+<!-- {% include feature_row id="intro" type="left" %}  -->
 
 <!-- Introduction to Colab -->
-{% include feature_row id="feature_row" type="left" %} 
+<!-- {% include feature_row id="feature_row" type="left" %}  -->
 
 <!-- Extracting ML readable  -->
-{% include feature_row id="feature_row1" type="left" %} 
+<!-- {% include feature_row id="feature_row1" type="left" %}  -->
 
 <!-- Intro to Gaussian -->
-{% include feature_row id = "feature_row2" type = "left"%}
+<!-- {% include feature_row id = "feature_row2" type = "left"%} -->
 
 <!-- Intro to BO -->
+<!-- {% include feature_row id = "feature_row3" type='left' %} -->
 
-{% include feature_row id = "feature_row3" type='left' %}
 <!-- Introduction to Colab -->
-{% include feature_row id = "feature_row4" type='left' %}
+<!-- {% include feature_row id = "feature_row4" type='left' %} -->
 
 
 <!-- {% include feature_row id="feature_row4" type="center" %} One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
