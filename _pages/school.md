@@ -63,14 +63,32 @@ feature_row3:
 
 feature_row4:
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
-    title: "Session Notebook"
+    title: "Human VS AI"
     url: "https://colab.research.google.com/drive/1myRDbYDa3jpFe2UeZbJcL53v7RrE8E5I"
-    btn_label: "Game"
+    btn_label: "Launch Game"
     btn_class: "btn--primary"
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
-    title: "Session Notebook"
+    title: "Introduction to Bayesian Optimization"
     url: "https://colab.research.google.com/drive/14q18Ls6zKSMKmOeyrm2vBpROWCa_WELf"
     btn_label: "Session Notebook"
+    btn_class: "btn--primary"
+
+solutions:
+  - title: "Solution to Introduction to Google Colab and Gemini"
+    url: 
+    btn_label: "Solution Notebook"
+    btn_class: "btn--primary"
+  - title: "Solution to Extracting Machine-readable metrics"
+    url: 
+    btn_label: "Solution Notebook"
+    btn_class: "btn--primary"
+  - title: "Solution to Extracting Scores "
+    url: 
+    btn_label: "Solution Notebook"
+    btn_class: "btn--primary"
+  - title: "Solution to Introduction to Bayesian Optimization"
+    url: 
+    btn_label: "Solution Notebook"
     btn_class: "btn--primary"
 ---
 # Welcome to 2025 Summer School
@@ -92,7 +110,7 @@ feature_row4:
 <!-- Intro to BO -->
 <!-- {% include feature_row id = "feature_row3" type='left' %} -->
 
-<!-- Introduction to Colab -->
+<!-- Introduction to BO -->
 <!-- {% include feature_row id = "feature_row4" type='left' %} -->
 
 <!-- {% include feature_row id="feature_row4" type="center" %} One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
