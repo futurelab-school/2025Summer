@@ -26,6 +26,7 @@ layout: single
 | 13:30  | Continue Project Work                                                    |
 | 14:45  | Break                                                                     |
 | 15:00  | Continue Project Work                                                     |
+| 16:10  | Continue Project Work                                                    |
 | 17:15  | Wrap Up Day 1                                                             |
 | 17:30  | Dinner                                                                    |
 
