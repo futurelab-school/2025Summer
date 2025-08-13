@@ -122,9 +122,7 @@ invited_speaker1:
   - image_path: /assets/images/menjing.jpg
     title: Mengying Liu, Washington and Lee University
     excerpt: Quartz is one of the most commonly found materials on the earth’s surface and analyzing its crystal texture aids in tectonic movement detection and earthquake prediction. With its uniaxial optical anisotropic property, under a white polarized light, grains with different orientations in quartz reflect various color and intensity. Rotating thin section samples on a dark background while taking micrographs of surface under a polarized reflective light microscope, we can generate the light intensity and color reflected at each pixel. The periodically varied intensity and color can then be correlated to distinct grain’s c-axis orientation through a machine learning algorithm. This polarized reflective light microscopy particularly suitable for a larger field of view with numerous sub-millimeters size grains, offers a low-cost fast-screening option for rock texture analysis compared to Electron Backscatter Diffraction analysis.
-  - image_path: /assets/images/ameliatrewartha.jpeg
-    title: Amalie Trewartha, Toyota Reserach Institute
-    excerpt: 
+
 map: 
   - image_path: /assets/images/LBNL logistics.png
 
@@ -143,7 +141,7 @@ The summer school is a 2.5 day event and open to all students and postdocs from 
 {% include feature_row id = "feature_schedule"%}
 
 ## Map
-{% include feature_row id = "map"%}
+{% include feature_row id = "map"% type='center'}
 
 
 ## Who is eligible to register for the summer course?
