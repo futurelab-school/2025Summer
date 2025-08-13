@@ -18,7 +18,7 @@ permalink: /school/
 
 workshop_day1:
   - image_path: /assets/images/louis-reed-JeInkKlI2Po-unsplash.jpg
-    title: "Access Data"
+    title: "Workshop Day 1"
     url: "https://github.com/mkywall/crucible-analysis-notebooks/blob/main/general/summer_school_data_tutorial_updated.ipynb"
     btn_label: "Code"
     btn_class: "btn--primary"
