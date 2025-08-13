@@ -17,8 +17,8 @@ permalink: /school/
 #   - excerpt: 'Join us August 13-15 for activities and workshops for applying Machine Learning to Material Science'
 
 workshop_day1:
-  - image_path: /assets/images/louis-reed-JeInkKlI2Po-unsplash.jpg
-    title: "Workshop Day 1"
+  - image_path: /assets/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
+    title: "Workshop Day1 - Project 4"
     url: "https://github.com/mkywall/crucible-analysis-notebooks/blob/main/general/summer_school_data_tutorial_updated.ipynb"
     btn_label: "Code"
     btn_class: "btn--primary"
@@ -26,14 +26,14 @@ workshop_day1:
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
     title: "Access Data"
-    url: "https://drive.google.com/drive/folders/14Yjtb6LylDDmgrQbZn_Xk6BaclhLDksO?usp=drive_link"
+    url: "https://drive.google.com/drive/folders/14Yjtb6LylDDmgrQbZn_Xk6BaclhLDksO"
     btn_label: "Data"
     btn_class: "btn--primary"
 
 feature_row1:
   - image_path: /assets/images/choong-deng-xiang--WXQm_NTK0U-unsplash.jpg
     title: "Introduction to Google Colab and Gemini"
-    url: "https://colab.research.google.com/drive/1gQ1PsNhgQA2Eh40ngdS5YW-N4_fsWZB3"
+    url: "https://colab.research.google.com/drive/1gQ1PsNhgQA2Eh40ngdS5YW-N4_fsWZB3#scrollTo=0lor9TmqQvs6"
     btn_label: "Session Notebook"
     btn_class: "btn--primary"
 
@@ -41,7 +41,7 @@ feature_row2:
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Extracting Machine-readable metrics"
     url: "https://colab.research.google.com/drive/1xCqPG-x8W6SptZ3DphjisZchx-yJ6gNo"
-    btn_label: "Introduction to Google Colab and Gemini"
+    btn_label: "Session Notebook"
     btn_class: "btn--primary"
 
 feature_row3:
@@ -52,12 +52,12 @@ feature_row3:
     btn_class: "btn--primary"
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Intro to Gaussian Process Regression"
-    url: "https://drive.google.com/drive/folders/1RPPTgTrn4zrnxCGDGsBOB74UJmDJtPrD"
+    url: "https://colab.research.google.com/drive/146B1xhK8AdE9ghnYWwXf5Q-hnFjbZafU"
     btn_label: "Session Notebook 2"
     btn_class: "btn--primary"
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Intro to Gaussian Process Regression"
-    url: ""
+    url: "https://colab.research.google.com/drive/1xCqPG-x8W6SptZ3DphjisZchx-yJ6gNo"
     btn_label: "Session Notebook 3"
     btn_class: "btn--primary"
 
