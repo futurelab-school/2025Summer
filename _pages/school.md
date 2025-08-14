@@ -90,7 +90,7 @@ solutions:
     btn_label: "Solution Sheet"
     btn_class: "btn--primary"
   - title: "Solution to Introduction to Bayesian Optimization"
-    url: /404/ #https://colab.research.google.com/drive/1hN-QwOLTzkt1vjm0vc6tSXhCsobObwDB
+    url: https://colab.research.google.com/drive/1hN-QwOLTzkt1vjm0vc6tSXhCsobObwDB
     btn_label: "Solution Notebook"
     btn_class: "btn--primary"
 ---
