@@ -4,23 +4,24 @@ title: "Gallery"
 layout: single
 
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-
+  - url: /assets/photos/IMG_1185.jpg
+    image_path: /assets/photos/IMG_1185.jpg
+  - url: /assets/photos/IMG_1189.jpg
+    image_path: /assets/photos/IMG_1189.jpg
+  - url: /assets/photos/IMG_1191.jpg
+    image_path: /assets/photos/IMG_1191.jpg
+  - url: /assets/photos/IMG_1201.jpg
+    image_path: /assets/photos/IMG_1201.jpg
+  - url: /assets/photos/IMG_1208.jpg
+    image_path: /assets/photos/IMG_1208.jpg
+  - url: /assets/photos/IMG_6511.jpg
+    image_path: /assets/photos/IMG_6511.jpg
+  - url: /assets/photos/IMG_9746.jpg
+    image_path: /assets/photos/IMG_9746.jpg
+  - url: /assets/photos/IMG_9787.jpg
+    image_path: /assets/photos/IMG_9787.jpg
+  - url: /assets/photos/IMG_9541.jpg
+    image_path: /assets/photos/IMG_9541.jpg
 ---
 
 {% include gallery caption="" %}
