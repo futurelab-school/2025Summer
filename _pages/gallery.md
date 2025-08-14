@@ -33,12 +33,12 @@ gallery:
 
 all_photos: 
   - title: "All Photos"
-    url: /404/ #https://colab.research.google.com/drive/1hN-QwOLTzkt1vjm0vc6tSXhCsobObwDB
-    btn_label: "Solution Notebook"
+    url: https://drive.google.com/drive/folders/1X1UejF_4XwBkb9d0mdUo4_1INROx0BXP
+    btn_label: "All Photos"
     btn_class: "btn--primary"
 ---
 
-{% include gallery caption="day1" %}
+{% include gallery  %}
 
 
-<a href="https://drive.google.com/drive/folders/1X1UejF_4XwBkb9d0mdUo4_1INROx0BXP" class="btn btn--primary">All Photos</a>
+{% include feature_row id = "all_photos" %}
