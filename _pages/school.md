@@ -81,23 +81,23 @@ solutions:
     url: https://colab.research.google.com/drive/16iSUJz5_9fKB0LM-7zz51ci8ddHs0zFn
     btn_label: "Solution Notebook"
     btn_class: "btn--primary"
-  # - title: "Solution to Extracting Machine-readable metrics"
-  #   url: https://colab.research.google.com/drive/1biAn_NkWUarPt7nfsUht-MSeF7wBX72G 
-  #   btn_label: "Solution Notebook"
-  #   btn_class: "btn--primary"
+  - title: "Solution to Extracting Machine-readable metrics"
+    url: /404/ #https://colab.research.google.com/drive/1biAn_NkWUarPt7nfsUht-MSeF7wBX72G 
+    btn_label: "Solution Notebook"
+    btn_class: "btn--primary"
   - title: "Solution to Extracting Scores "
     url: https://docs.google.com/spreadsheets/d/1ilpxgAS0g1v6zFLXuPj2eqEScVKSp4T8bKh_edRewzI/
     btn_label: "Solution Sheet"
     btn_class: "btn--primary"
-  # - title: "Solution to Introduction to Bayesian Optimization"
-  #   url: https://colab.research.google.com/drive/1hN-QwOLTzkt1vjm0vc6tSXhCsobObwDB
-  #   btn_label: "Solution Notebook"
-  #   btn_class: "btn--primary"
+  - title: "Solution to Introduction to Bayesian Optimization"
+    url: /404/ #https://colab.research.google.com/drive/1hN-QwOLTzkt1vjm0vc6tSXhCsobObwDB
+    btn_label: "Solution Notebook"
+    btn_class: "btn--primary"
 ---
 # Welcome to 2025 Summer School
 ## Workshop Day1 
 <!-- Workshop Day 1-->
-{% include feature_row id="workshop_day1" type="center" %} 
+{% include feature_row id="workshop_day1" type="left" %} 
 
 ## Workshop Day2
 <!-- Data -->
