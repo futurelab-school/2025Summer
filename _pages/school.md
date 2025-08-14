@@ -96,22 +96,22 @@ solutions:
 {% include feature_row id="workshop_day1" type="left" %} 
 
 <!-- Data -->
-<!-- {% include feature_row id="intro" type="left" %}  -->
+{% include feature_row id="intro" type="left" %} 
 
 <!-- Introduction to Colab -->
-<!-- {% include feature_row id="feature_row" type="left" %}  -->
+{% include feature_row id="feature_row" type="left" %} 
 
 <!-- Extracting ML readable  -->
-<!-- {% include feature_row id="feature_row1" type="left" %}  -->
+{% include feature_row id="feature_row1" type="left" %} 
 
 <!-- Intro to Gaussian -->
-<!-- {% include feature_row id = "feature_row2" type = "left"%} -->
+{% include feature_row id = "feature_row2" type = "left"%}
 
 <!-- Intro to BO -->
-<!-- {% include feature_row id = "feature_row3" type='left' %} -->
+{% include feature_row id = "feature_row3" type='left' %}
 
 <!-- Introduction to BO -->
-<!-- {% include feature_row id = "feature_row4" type='left' %} -->
+{% include feature_row id = "feature_row4" type='left' %}
 
 <!-- {% include feature_row id="feature_row4" type="center" %} One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
