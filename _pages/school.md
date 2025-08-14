@@ -18,7 +18,7 @@ permalink: /school/
 
 workshop_day1:
   - image_path: /assets/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
-    title: "Workshop Day1 - Project 4"
+    title: "Project 4"
     url: "https://github.com/mkywall/crucible-analysis-notebooks/blob/main/general/summer_school_data_tutorial_updated.ipynb"
     btn_label: "Code"
     btn_class: "btn--primary"
@@ -92,9 +92,11 @@ solutions:
     btn_class: "btn--primary"
 ---
 # Welcome to 2025 Summer School
+## Workshop Day1 
 <!-- Workshop Day 1-->
 {% include feature_row id="workshop_day1" type="left" %} 
 
+## Workshop Day2
 <!-- Data -->
 {% include feature_row id="intro" type="left" %} 
 
