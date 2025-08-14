@@ -16,6 +16,14 @@ gallery:
     image_path: /assets/photos/IMG_1208.jpg
   - url: /assets/photos/IMG_6511.jpg
     image_path: /assets/photos/IMG_6511.jpg
+  - url: /assets/photos/IMG_9541.jpg
+    image_path: /assets/photos/IMG_9541.jpg
+  - url: /assets/photos/IMG_9588.jpg
+    image_path: /assets/photos/IMG_9588.jpg
+  - url: /assets/photos/IMG_9664.jpg
+    image_path: /assets/photos/IMG_9664.jpg
+  - url: /assets/photos/IMG_9742.jpg
+    image_path: /assets/photos/IMG_9742.jpg
   - url: /assets/photos/IMG_9746.jpg
     image_path: /assets/photos/IMG_9746.jpg
   - url: /assets/photos/IMG_9787.jpg
