@@ -22,6 +22,9 @@ workshop_day1:
     url: "https://github.com/mkywall/crucible-analysis-notebooks/blob/main/general/summer_school_data_tutorial_updated.ipynb"
     btn_label: "Code"
     btn_class: "btn--primary"
+  - url: https://futurelab-school.github.io/2025Summer/gallery/
+    btn_label: "Photos"
+    btn_class: "btn--primary" 
 
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
