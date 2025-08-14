@@ -32,8 +32,7 @@ gallery:
     image_path: /assets/photos/WechatIMG6.jpg
 
 all_photos: 
-  - title: "All Photos"
-    url: https://drive.google.com/drive/folders/1X1UejF_4XwBkb9d0mdUo4_1INROx0BXP
+  - url: https://drive.google.com/drive/folders/1X1UejF_4XwBkb9d0mdUo4_1INROx0BXP
     btn_label: "All Photos"
     btn_class: "btn--primary"
 ---
@@ -41,4 +40,4 @@ all_photos:
 {% include gallery  %}
 
 
-{% include feature_row id = "all_photos" %}
+{% include feature_row id = "all_photos" type = "center" %}
