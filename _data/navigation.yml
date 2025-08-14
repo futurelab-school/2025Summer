@@ -10,6 +10,9 @@ main:
     enabled: true
   - title: "School"
     url: /school/ #/404/ 
+  - title: "Gallery"
+    url: /gallery/
+    enabled: false
   #   enabled: false
 
   

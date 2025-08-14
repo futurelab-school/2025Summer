@@ -22,9 +22,9 @@ workshop_day1:
     url: "https://github.com/mkywall/crucible-analysis-notebooks/blob/main/general/summer_school_data_tutorial_updated.ipynb"
     btn_label: "Code"
     btn_class: "btn--primary"
-  - url: https://futurelab-school.github.io/2025Summer/gallery/
-    btn_label: "Photos"
-    btn_class: "btn--primary" 
+  # - url: https://futurelab-school.github.io/2025Summer/gallery/
+  #   btn_label: "Photos"
+  #   btn_class: "btn--primary" 
 
 feature_row:
   - image_path: /assets/images/louis-reed-pwcKF7L4-no-unsplash.jpg
@@ -78,26 +78,26 @@ feature_row4:
 
 solutions:
   - title: "Solution to Introduction to Google Colab and Gemini"
-    url: 
+    url: https://colab.research.google.com/drive/16iSUJz5_9fKB0LM-7zz51ci8ddHs0zFn
     btn_label: "Solution Notebook"
     btn_class: "btn--primary"
   - title: "Solution to Extracting Machine-readable metrics"
-    url: 
+    url: https://colab.research.google.com/drive/1biAn_NkWUarPt7nfsUht-MSeF7wBX72G 
     btn_label: "Solution Notebook"
     btn_class: "btn--primary"
   - title: "Solution to Extracting Scores "
-    url: 
+    url: https://docs.google.com/spreadsheets/d/1ilpxgAS0g1v6zFLXuPj2eqEScVKSp4T8bKh_edRewzI/
     btn_label: "Solution Notebook"
     btn_class: "btn--primary"
   - title: "Solution to Introduction to Bayesian Optimization"
-    url: 
+    url: https://colab.research.google.com/drive/1hN-QwOLTzkt1vjm0vc6tSXhCsobObwDB
     btn_label: "Solution Notebook"
     btn_class: "btn--primary"
 ---
 # Welcome to 2025 Summer School
 ## Workshop Day1 
 <!-- Workshop Day 1-->
-{% include feature_row id="workshop_day1" type="left" %} 
+{% include feature_row id="workshop_day1" type="center" %} 
 
 ## Workshop Day2
 <!-- Data -->
@@ -117,6 +117,9 @@ solutions:
 
 <!-- Introduction to BO -->
 {% include feature_row id = "feature_row4" type='left' %}
+
+<!-- Solution -->
+{% include feature_row id = "solutions" type='left' %}
 
 <!-- {% include feature_row id="feature_row4" type="center" %} One of the placeholders can be reading materials (not sure how to call it) but it can provide links to Shijing/my papers;-->
 
