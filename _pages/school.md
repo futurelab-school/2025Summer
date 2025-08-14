@@ -82,7 +82,7 @@ solutions:
     btn_label: "Solution Notebook"
     btn_class: "btn--primary"
   - title: "Solution to Extracting Machine-readable metrics"
-    url: /404/ #https://colab.research.google.com/drive/1biAn_NkWUarPt7nfsUht-MSeF7wBX72G 
+    url: https://colab.research.google.com/drive/1biAn_NkWUarPt7nfsUht-MSeF7wBX72G 
     btn_label: "Solution Notebook"
     btn_class: "btn--primary"
   - title: "Solution to Extracting Scores "

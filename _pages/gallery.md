@@ -31,6 +31,11 @@ gallery:
   - url: /assets/photos/WechatIMG6.jpg
     image_path: /assets/photos/WechatIMG6.jpg
 
+all_photos: 
+  - title: "All Photos"
+    url: /404/ #https://colab.research.google.com/drive/1hN-QwOLTzkt1vjm0vc6tSXhCsobObwDB
+    btn_label: "Solution Notebook"
+    btn_class: "btn--primary"
 ---
 
 {% include gallery caption="day1" %}
