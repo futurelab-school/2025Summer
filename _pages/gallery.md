@@ -1,7 +1,7 @@
 ---
 permalink: /gallery/
 title: "Gallery"
-layout: single
+layout: splash
 
 gallery:
   - url: /assets/photos/IMG_1185.jpg
@@ -28,12 +28,12 @@ gallery:
     image_path: /assets/photos/IMG_9746.jpg
   - url: /assets/photos/IMG_9787.jpg
     image_path: /assets/photos/IMG_9787.jpg
-  - url: /assets/photos/IMG_9541.jpg
-    image_path: /assets/photos/IMG_9541.jpg
+  - url: /assets/photos/WechatIMG6.jpg
+    image_path: /assets/photos/WechatIMG6.jpg
+
 ---
 
-{% include gallery caption="" %}
+{% include gallery caption="day1" %}
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://drive.google.com/drive/folders/1X1UejF_4XwBkb9d0mdUo4_1INROx0BXP" class="btn btn--primary">All Photos</a>
-</div>
+
+<a href="https://drive.google.com/drive/folders/1X1UejF_4XwBkb9d0mdUo4_1INROx0BXP" class="btn btn--primary">All Photos</a>
