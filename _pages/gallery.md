@@ -34,4 +34,6 @@ gallery:
 
 {% include gallery caption="" %}
 
-<a href="https://drive.google.com/drive/folders/1X1UejF_4XwBkb9d0mdUo4_1INROx0BXP" class="btn btn-primary" target="_blank" rel="noopener">View Full Gallery on Google Drive</a>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://drive.google.com/drive/folders/1X1UejF_4XwBkb9d0mdUo4_1INROx0BXP" class="btn btn--primary">All Photos</a>
+</div>
