@@ -40,7 +40,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
     title: "Extracting Machine-readable metrics"
-    url: "https://colab.research.google.com/drive/1xCqPG-x8W6SptZ3DphjisZchx-yJ6gNo"
+    url: "https://colab.research.google.com/drive/1Hbg-1ZD_ScwDRPEYGR7sLq0mshBlWqOc"
     btn_label: "Session Notebook"
     btn_class: "btn--primary"
 
