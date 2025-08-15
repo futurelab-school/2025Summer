@@ -93,8 +93,21 @@ solutions:
     url: https://colab.research.google.com/drive/1hN-QwOLTzkt1vjm0vc6tSXhCsobObwDB
     btn_label: "Solution Notebook"
     btn_class: "btn--primary"
+  
+QRCODE: 
+  - image_path: assets/images/SurveyQR.png 
+    title: Survey
+    url: https://docs.google.com/forms/d/e/1FAIpQLSfJweHaqH9xdmohprssYKauBgzNBbyPSLYOEMUAYcMd3GR4Ag/viewform?usp=sharing&ouid=100785848060605127812
+    btn_label: "Survey"
+    btn_class: "btn--primary"
+
+
+
 ---
 # Welcome to 2025 Summer School
+## Workshop Day3 - Survey
+![Summer School Survey](assets/images/SurveyQR.png)
+
 ## Workshop Day1 
 <!-- Workshop Day 1-->
 {% include feature_row id="workshop_day1" type="left" %} 
