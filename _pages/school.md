@@ -106,7 +106,7 @@ QRCODE:
 ---
 # Welcome to 2025 Summer School
 ## Workshop Day3 - Survey
-![Summer School Survey](assets/images/SurveyQR.png)
+{% include feature_row id="QRCODE" type="center" %} 
 
 ## Workshop Day1 
 <!-- Workshop Day 1-->
