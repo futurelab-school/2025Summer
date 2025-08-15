@@ -102,7 +102,7 @@ QRCODE:
 
 ---
 # Welcome to 2025 Summer School
-## Let us know how you thought about the Summer School!
+## Let us know your thoughts!
 {% include feature_row id="QRCODE" type="center" %} 
 
 ## Workshop Day1 
