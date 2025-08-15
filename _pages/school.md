@@ -95,16 +95,14 @@ solutions:
     btn_class: "btn--primary"
   
 QRCODE: 
-  - image_path: assets/images/SurveyQR.png 
+  - image_path: /assets/images/SurveyQR.png 
     url: https://docs.google.com/forms/d/e/1FAIpQLSfJweHaqH9xdmohprssYKauBgzNBbyPSLYOEMUAYcMd3GR4Ag/viewform?usp=sharing&ouid=100785848060605127812
     btn_label: "Survey link"
     btn_class: "btn--primary"
 
-
-
 ---
 # Welcome to 2025 Summer School
-## Workshop Day3 - Survey
+## Let us know how we did!
 {% include feature_row id="QRCODE" type="center" %} 
 
 ## Workshop Day1 
