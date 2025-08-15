@@ -96,9 +96,8 @@ solutions:
   
 QRCODE: 
   - image_path: assets/images/SurveyQR.png 
-    title: Survey
     url: https://docs.google.com/forms/d/e/1FAIpQLSfJweHaqH9xdmohprssYKauBgzNBbyPSLYOEMUAYcMd3GR4Ag/viewform?usp=sharing&ouid=100785848060605127812
-    btn_label: "Survey"
+    btn_label: "Survey link"
     btn_class: "btn--primary"
 
 
