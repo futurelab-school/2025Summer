@@ -41,9 +41,9 @@ layout: single
 | 9:00   | Welcome to Day2 *Speaker: Carolin Sutter-Fella & Shijing Sun*  |
 | 9:05   | **Summary of day 1 & Perovskite Intro** *Speaker: Carolin Sutter-Fella* |
 | 9:30   | **Intro Using Google Colab & ChatGPT Guided Coding** *(Clara Tamura)* <br>• Bring your own data <br>• Convert code into Colab notebooks<br>• Connect to data sources <br>• Prepare data for ML & score generation |
-| 10:00  | **Extracting machine-readable metrics for thin films I** *(Shuan Cheng)*  <br> |
+| 10:00  | **Extracting Machine-Readable Metrics for Thin Films I** *(Shuan Cheng)*  <br> |
 | 10:30  | Break |
-| 11:00  | **Extracting machine-readable metrics for thin films II** *(Shuan Cheng, Thong Nguyen)*<br>• UV-Vis Metric<br>• PL Metrics <br>• PL Image Metric |
+| 11:00  | **Extracting Machine-Readable Metrics for Thin Films II** *(Shuan Cheng, Thong Nguyen)*<br>• UV-Vis Metric<br>• PL Metrics <br>• PL Image Metric |
 | 12:00  | **Lunch Break** |
 
 ---
